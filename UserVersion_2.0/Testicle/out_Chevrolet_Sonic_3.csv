@@ -1,0 +1,17 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,4000,2013,Chevrolet sonic LT Hatchback Sedan 4D,"Staten Island, NY",117000,A
+Sold,3500,2013,Chevrolet sonic LT Sedan 4D,"Bronx, NY",100000,A
+Sold,1000,2013,Chevrolet sonic,"Newark, NJ",148000,A
+Sold,5500,2016,Chevrolet sonic LT Hatchback Sedan 4D,"Elizabeth, NJ",92000,B
+Sold,3800,2012,Chevrolet sonic LT,"Staten Island, NY",93000,A
+Sold,4300,2014,Chevrolet sonic LS Sedan 4D,"Corona, NY",158000,A
+Sold,4299,2014,Chevrolet sonic LT Sedan 4D,"Brooklyn, NY",150000,A
+Sold,3895,2016,Chevrolet sonic LTZ Sedan 4D,"Fresh Meadows, NY",94000,A
+Sold,4300,2014,Chevrolet sonic LS Sedan 4D,"Corona, NY",168000,A
+Sold,5500,2012,Chevrolet sonic,"Elizabeth, NJ",92000,B
+Sold,4550,2014,Chevrolet sonic LT Sedan 4D,"Fair Lawn, NJ",113000,A
+Sold,4650,2014,Chevrolet sonic LT,"New York, NY",112000,A
+Sold,4500,2012,Chevrolet sonic LT Sedan 4D,"Bronx, NY",1400,A
+Sold,5500,2012,Chevrolet sonic LS Hatchback Sedan 4D,"Hawthorne, NJ",72000,B
+Pending,4000,2012,Chevrolet sonic Lt,"Jersey City, NJ",168000,A
+Sold,3150,2015,Chevrolet sonic LS Hatchback Sedan 4D,"Middle River, MD",145000,A

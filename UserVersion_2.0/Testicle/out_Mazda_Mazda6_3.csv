@@ -1,0 +1,22 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,2800,2008,Mazda mazda6,"New York, NY",106000,A
+Pending,2500,2004,Mazda mazda6 i Sedan 4D,"New York, NY",171000,A
+Sold,8995,2016,Mazda mazda6 i Touring Sedan 4D,"Brooklyn, NY",129000,B
+Sold,4300,2010,Mazda mazda6 i Grand Touring Sedan 4D,"Moonachie, NJ",242000,A
+Sold,10978,2017,Mazda mazda6 Sport Sedan 4D,"Paterson, NJ",107000,C
+Sold,3800,2006,Mazda mazda6,"Pearl River, NY",99000,A
+Sold,4200,2008,Mazda mazda6 i Sport Value Edition Sedan 4D,"Richmond Hill, NY",100000,A
+Sold,2900,2006,Mazda mazda6 MAZDASPEED6 Grand Touring Sedan 4D,"Bronx, NY",157000,A
+Sold,8900,2014,Mazda mazda6 i touring 4dr sedan 6a,"Staten Island, NY",119000,B
+Sold,1200,2006,Mazda mazda6,"Oradell, NJ",147000,A
+Sold,3500,2004,Mazda mazda6 S,"Wantagh, NY",106000,A
+Sold,4600,2009,Mazda mazda6,"Oak Ridge, NJ",113000,A
+Sold,2500,2007,Mazda mazda6 i Grand Touring Sedan 4D,"White Plains, NY",147000,A
+Sold,3400,2007,Mazda mazda6 MAZDASPEED6 Grand Touring Sedan 4D,"Brooklyn, NY",132000,A
+Sold,2600,2005,Mazda mazda6 i Sedan 4D,"Wayne, NJ",147000,A
+Sold,5500,2010,Mazda mazda6 i Sport Sedan 4D,"Hawthorne, NJ",116000,B
+Sold,4500,2006,Mazda mazda6 s Grand Sport Sedan 4D,"Belleville, NJ",128000,A
+Sold,2500,2004,Mazda mazda6,"Newark, NJ",146000,A
+Sold,2500,2008,Mazda mazda6 i Sport Sedan 4D,"Nyack, NY",130000,A
+Sold,4000,2008,Mazda mazda6,"Wharton, NJ",140000,A
+Sold,3950,2010,Mazda mazda6 i Sport Value Sedan 4D,"Newark, NJ",150000,A

@@ -1,0 +1,9 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,4500,1995,Volvo 850 t5 turbo engine wagon,"Upper Marlboro, MD",73000,A
+Sold,3500,1995,Volvo 850 sedan,"Great Neck, NY",150000,A
+Sold,2300,1997,Volvo 850 GLT Sedan 4D,"Paterson, NJ",100000,A
+Sold,7000,1997,Volvo 850r wagon 5-speed manual,"Woodbury, CT",264000,B
+Sold,1400,1996,Volvo 850 Sedan 4D,"Winchester, VA",193000,A
+Sold,2500,1996,Volvo 850,"Herndon, VA",130000,A
+Pending,3500,1996,Volvo 850 glt,"Rutland, VT",168000,A
+Sold,2500,1996,Volvo 850 Turbo Sedan 4D,"Oxon Hill, MD",130000,A

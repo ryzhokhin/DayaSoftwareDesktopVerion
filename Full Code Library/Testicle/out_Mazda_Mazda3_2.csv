@@ -1,0 +1,27 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,1200,2004,Mazda mazda3 s Hatchback 4D,"Woodbridge, NJ",107000,A
+Sold,2965,2012,Mazda mazda3 i Touring Sedan 4D,"Bayside, NY",171000,A
+Sold,2850,2006,Mazda mazda3 i Sedan 4D,"Uniondale, NY",169000,A
+Sold,2995,2012,Mazda mazda3 i Grand Touring Sedan 4D,"Fresh Meadows, NY",171000,A
+Sold,3900,2012,Mazda mazda3 Grand touring,"Rockaway, NJ",189000,A
+Pending,2500,2008,Mazda mazda3 s Sport Sedan 4D,"West Hempstead, NY",180000,A
+Sold,3300,2007,Mazda mazda3 i Sport Sedan 4D,"Fort Montgomery, NY",131000,A
+Sold,2799,2005,Mazda mazda3 i Sedan 4D,"Jamaica, NY",11000,A
+Sold,3000,2010,Mazda mazda3 s Sport Hatchback 4D,"Jamaica, NY",161000,A
+Sold,2500,2005,Mazda mazda3,"Middle Village, NY",118000,A
+Sold,4000,2011,Mazda mazda3 i Touring Sedan 4D,"Fresh Meadows, NY",113000,A
+Sold,1700,2007,Mazda mazda3,"Richmond Hill, NY",12000,A
+Sold,2799,2005,Mazda mazda3 i Sedan 4D,"Jamaica, NY",113000,A
+Sold,7800,2013,Mazda mazda3 i Sport Sedan 4D,"Baldwin, NY",57000,B
+Sold,3500,2006,Mazda mazda3 s Grand Touring Hatchback 4D,"Lynbrook, NY",111000,A
+Sold,3000,2006,Mazda mazda3 s Hatchback 4D,"Paterson, NJ",121000,A
+Sold,1600,2008,Mazda mazda3 i Sport Sedan 4D,"Hicksville, NY",134000,A
+Sold,2000,2005,Mazda mazda3 s Sedan 4D,"Woodside, NY",70000,A
+Sold,3500,2012,Mazda mazda3 s Grand Touring Sedan 4D,"Jersey City, NJ",131000,A
+Sold,6500,2008,Mazda mazda3 MAZDASPEED3 Sport Hatchback 4D,"Flemington, NJ",25000,B
+Sold,3000,2007,Mazda mazda3 i Sport Sedan 4D,"Stamford, CT",182000,A
+Pending,11800,2018,Mazda mazda3 Touring Sedan 4D,"Central Islip, NY",47000,C
+Sold,3800,2010,Mazda mazda3 s Sport Sedan 4D,"Bridgewater, NJ",139000,A
+Sold,2300,2010,Mazda mazda3,"Franklin, NJ",130000,A
+Sold,3500,2006,Mazda mazda3 s Hatchback 4D,"Fair Lawn, NJ",122000,A
+Sold,1700,2009,Mazda mazda3 s Sport Sedan 4D,"Jersey City, NJ",138000,A

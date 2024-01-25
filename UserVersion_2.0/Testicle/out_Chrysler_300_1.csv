@@ -1,0 +1,17 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,2100,2006,Chrysler 300C Sedan 4D,"Bronx, NY",176000,A
+Sold,14000,2006,Chrysler 300C Sedan 4D,"Hicksville, NY",54000,C
+Sold,6750,2006,Chrysler 300 SRT8 Sedan 4D,"Maplewood, NJ",101000,B
+Sold,2400,2006,Chrysler 300 Hemi 5.7,"Bronx, NY",17000,A
+Pending,6600,2014,Chrysler 300 Sedan 4D,"Long Island City, NY",117000,B
+Sold,3350,2012,Chrysler 300 Sedan 4D,"Manalapan, NJ",219000,A
+Sold,4500,2008,Chrysler 300 Limited Sedan 4D,"Rego Park, NY",125000,A
+Sold,6850,2011,Chrysler 300 Limited Sedan 4D,"Hazlet, NJ",92000,B
+Sold,2500,2014,Chrysler 300 Sedan 4D,"Bronx, NY",233000,A
+Sold,2600,2006,Chrysler 300 Touring Sedan 4D,"Irvington, NJ",180000,A
+Sold,7950,2018,Chrysler 300 Touring L Sedan 4D,"Weehawken, NJ",192000,B
+Sold,8910,2006,Chrysler 300 SRT8 Sedan 4D,"Newark, NJ",195000,B
+Sold,4300,2008,Chrysler 300,"North Brunswick, NJ",93000,A
+Sold,3800,2013,Chrysler 300,"New Brunswick, NJ",175000,A
+Sold,6700,2012,Chrysler 300 Sedan 4D,"Lakewood, NJ",130000,B
+Sold,7500,2012,Chrysler 300,"Elizabeth, NJ",149000,B

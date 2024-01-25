@@ -1,0 +1,24 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Pending,2500,2004,Mazda mazda6 i Sedan 4D,"New York, NY",171000,A
+Sold,1200,2004,Mazda mazda3 s Hatchback 4D,"Woodbridge, NJ",107000,A
+Sold,1350,2006,Mazda mazda6 s Grand Sport Sedan 4D,"Edgewood, MD",215000,A
+Sold,1500,1998,Mazda 626 DX Sedan 4D,"Saratoga Springs, NY",115000,A
+Sold,3500,1992,Mazda mx-5 miata Convertible 2D,"Union, NJ",192000,A
+Sold,2000,1998,Mazda 626 LX Sedan 4D,"Saratoga Springs, NY",111000,A
+Sold,3200,2000,Mazda mx-5 miata Special Edition Convertible 2D,"Ellenville, NY",131000,A
+Sold,2000,1998,Mazda protege LX Sedan 4D,"Bronx, NY",94000,A
+Sold,1000,1998,Mazda b4000,"Lancaster, PA",312000,A
+Sold,1500,1998,Mazda b3000,"Portsmouth, VA",198000,A
+Sold,1500,2008,Mazda speed 3 Estándar turbo,"Newark, DE",119000,A
+Sold,2000,1991,Mazda mx-5 miata,"Garwood, NJ",176000,A
+Sold,1125,2003,Mazda mazda6 i Sedan 4D,"Waterford, CT",155000,A
+Sold,2500,2003,Mazda protege Hatchback 4D,"Auburn, MA",247000,A
+Sold,2300,1999,Mazda protege DX Sedan 4D,"Springfield, MA",162000,A
+Sold,1999,1999,Mazda 626 ES Sedan 4D,"Cranford, NJ",158000,A
+Sold,6500,1997,Mazda mx-5 miata Convertible 2D,"Hollis, NH",100000,B
+Sold,5000,1991,Mazda rx-7,"Virginia Beach, VA",165000,A
+Sold,1300,2002,Mazda b-3000,"Salisbury, MD",295000,A
+Sold,1234,1990,Mazda,"Cherry Hill, NJ",999,A
+Sold,4300,1986,Mazda b2200,"Danbury, CT",168000,A
+Sold,1234,1990,Mazda mx-5 miata Convertible 2D,"Bridgeport, CT",160000,A
+Sold,1000,2004,Mazda mazda3 s Sedan 4D,"Greenwich, NY",178000,A

@@ -1,0 +1,33 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,2900,2000,Toyota camry LE Sedan 4D,"Union, NJ",144000,A
+Sold,3000,1998,Toyota camry CE Sedan 4D,"West Orange, NJ",57000,A
+Sold,10500,2018,Toyota camry LE,"Brooklyn, NY",186000,C
+Pending,2000,2006,Toyota camry XLE Sedan 4D,"Yonkers, NY",216000,A
+Sold,6850,2009,Toyota camry LE Sedan 4D,"Staten Island, NY",62000,B
+Sold,4000,2000,Toyota camry LE Sedan 4D,"Wantagh, NY",80000,A
+Pending,1350,2001,Toyota camry CE Sedan 4D,"South Plainfield, NJ",200000,A
+Sold,4500,2012,Toyota camry XLE Sedan 4D,"Richmond Hill, NY",232000,A
+Sold,1000,2000,Toyota camry LE Sedan 4D,"Elmont, NY",200000,A
+Sold,1300,1999,Toyota camry,"Jersey City, NJ",126000,A
+Sold,10200,2016,Toyota camry SE Sedan 4D,"Jersey City, NJ",104000,C
+Sold,2750,2002,Toyota camry SE Sedan 4D,"Bronx, NY",138000,A
+Sold,2500,2002,Toyota camry LE Sedan 4D,"Flushing, NY",140000,A
+Sold,3875,2002,Toyota camry LE Sedan 4D,"Nyack, NY",158000,A
+Sold,1600,1999,Toyota camry CE Sedan 4D,"Bronx, NY",107000,A
+Pending,2500,2003,Toyota camry LE Sedan 4D,"Whitestone, NY",143000,A
+Sold,3200,1999,Toyota camry,"Garfield, NJ",84000,A
+Sold,2000,2004,Toyota camry LE Sedan 4D,"Monroe, NJ",146000,A
+Sold,2450,1998,Toyota camry XLE Sedan 4D,"North Bergen, NJ",59000,A
+Sold,2500,1998,Toyota camry XLE Sedan 4D,"Elizabeth, NJ",214000,A
+Sold,1800,2000,Toyota camry CE Sedan 4D,"Newark, NJ",140000,A
+Sold,7900,2013,Toyota camry LE Sedan 4D,"Clifton, NJ",156000,B
+Sold,1200,1997,Toyota camry LE Sedan 4D,"White Plains, NY",99000,A
+Sold,5000,2001,Toyota camry LE Sedan 4D,"Tinton Falls, NJ",77000,A
+Pending,2400,2000,Toyota camry LE Sedan 4D,"Yonkers, NY",121000,A
+Sold,2395,2001,Toyota camry XLE Sedan 4D,"Manalapan, NJ",194000,A
+Sold,1200,1997,Toyota camry,"Brooklyn, NY",2200,A
+Pending,6900,2017,Toyota camry SE Sedan 4D,"Forest Hills, NY",191000,B
+Sold,1600,1994,Toyota camry LE Sedan 4D,"Rahway, NJ",92000,A
+Sold,1100,1997,Toyota camry LE Sedan 4D,"St James, NY",192000,A
+Sold,2800,1996,Toyota camry DX Sedan 4D,"Stamford, CT",84000,A
+Sold,1900,2002,Toyota camry LE Sedan 4D,"Queens Village, NY",111000,A

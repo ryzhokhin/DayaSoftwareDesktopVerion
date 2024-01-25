@@ -1,0 +1,11 @@
+Contract,Price,Year,Make&Model,Location,Miles
+Sold,3500,1991,Honda acty,"South Ozone Park, NY",45000
+Sold,6500,1995,Honda acty truck,"Hillside, NJ",36000
+Sold,4500,1996,Honda acty,"Berlin, CT",20000
+Pending,5500,1994,Honda acty Truck,"Howard Beach, NY",95000
+Sold,6500,1993,Honda acty,"Oakham, MA",83000
+Sold,11000,1996,Honda acty,"Egg Harbor City, NJ",70000
+Sold,6500,1994,Honda acty,"Dunkirk, MD",11000
+Pending,7500,1997,Honda acty SDX,"Belchertown, MA",57000
+Sold,7500,1997,Honda acty,"Kill Devil Hills, NC",39000
+Sold,8000,1996,Honda acty,"York, PA",82000

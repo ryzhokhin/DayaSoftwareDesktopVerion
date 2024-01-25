@@ -1,0 +1,15 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,8400,2011,Cadillac srx luxury collection,"Vernon, NJ",120000,B
+Sold,2000,2006,Cadillac srx Sport Utility 4D,"Paterson, NJ",104000,A
+Sold,4500,2013,Cadillac srx Performance Collection Sport Utility 4D,"East Elmhurst, NY",124000,A
+Sold,6100,2011,Cadillac srx Sport Utility 4D,"Brooklyn, NY",115000,B
+Sold,5900,2012,Cadillac srx,"Belleville, NJ",163000,B
+Pending,10150,2012,Cadillac srx Sport Utility 4D,"Bronx, NY",76000,C
+Sold,4500,2007,Cadillac srx Sport Utility 4D,"Brentwood, NY",121000,A
+Sold,2000,2005,Cadillac srx Sport Utility 4D,"New Egypt, NJ",230000,A
+Sold,4500,2008,Cadillac srx Sport Utility 4D,"Bronx, NY",122000,A
+Sold,6500,2013,Cadillac srx,"Wayne, NJ",143000,B
+Sold,4500,2008,Cadillac srx Sport Utility 4D,"Bronx, NY",122000,A
+Sold,8800,2013,Cadillac srx Luxury Collection Sport Utility 4D,"Peekskill, NY",113000,B
+Sold,12999,2014,Cadillac srx,"Garfield, NJ",95000,C
+Sold,11450,2013,Cadillac srx Luxury Collection Sport Utility 4D,"Keyport, NJ",110000,C

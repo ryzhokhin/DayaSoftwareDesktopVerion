@@ -1,0 +1,15 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,1200,2004,Honda element EX Sport Utility 4D,"Passaic, NJ",456000,A
+Pending,7500,2008,Honda element EX Sport Utility 4D,"Brooklyn, NY",168000,B
+Sold,1700,2003,Honda element EX Sport Utility 4D,"Sparta, NJ",265000,A
+Sold,8575,2008,Honda element LX Sport Utility 4D,"Ridgewood, NY",224000,B
+Sold,3000,2003,Honda element EX Sport Utility 4D,"New Egypt, NJ",102000,A
+Sold,2500,2008,Honda element EX Sport Utility 4D,"Summit, NJ",217000,A
+Sold,2200,2004,Honda element EX Sport Utility 4D,"Huntington Station, NY",135000,A
+Sold,3600,2004,Honda element,"Belleville, NJ",282000,A
+Sold,6500,2007,Honda element EX Sport Utility 4D,"East Hanover, NJ",94000,B
+Pending,5250,2003,Honda element DX Sport Utility 4D,"Smithtown, NY",183000,B
+Sold,2500,2007,Honda element LX Sport Utility 4D,"Lakewood, NJ",300,A
+Sold,4800,2003,Honda element DX Sport Utility 4D,"Bronx, NY",182000,A
+Sold,6900,2008,Honda element,"Belleville, NJ",159000,B
+Sold,3850,2007,Honda element LX Sport Utility 4D,"Yonkers, NY",177000,A

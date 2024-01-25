@@ -1,0 +1,18 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,3500,2001,Honda cr-v,"New York, NY",134000,A
+Sold,3000,2005,Honda cr-v,"Jamaica, NY",148000,A
+Pending,2800,1999,Honda cr-v EX Sport Utility 4D,"Corona, NY",158000,A
+Pending,2650,2003,Honda cr-v LX Sport Utility 4D,"Little Neck, NY",140000,A
+Sold,1200,2003,Honda cr-v EX Sport Utility 4D,"Stony Brook, NY",146000,A
+Sold,3400,2004,Honda cr-v LX Sport Utility 4D,"Hicksville, NY",178000,A
+Sold,1150,1998,Honda cr-v EX Sport Utility 4D,"Rutherford, NJ",254000,A
+Sold,2000,2000,Honda cr-v LX Sport Utility 4D,"New York, NY",162000,A
+Sold,5795,2005,Honda cr-v EX Sport Utility 4D,"Deer Park, NY",129000,B
+Sold,1000,2003,Honda cr-v LX Sport Utility 4D,"Woodhaven, NY",153000,A
+Sold,26800,2020,Honda cr-v hybrid Touring Sport Utility 4D,"Clifton, NJ",40000,F
+Sold,24400,2022,Honda cr-v Touring Sport Utility 4D,"New York, NY",9000,E
+Pending,4500,2001,Honda cr-v,"Elizabeth, NJ",163000,A
+Sold,4400,1999,Honda cr-v,"Belleville, NJ",137000,A
+Sold,1500,2003,Honda cr-v EX Sport Utility 4D,"Union City, NJ",167000,A
+Pending,5000,2009,Honda cr-v EX Sport Utility 4D,"Paterson, NJ",199000,A
+Sold,5500,2011,Honda cr-v LX Sport Utility 4D,"Newark, NJ",2100,B

@@ -1,0 +1,31 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Pending,4900,2004,Toyota tundra access cab SR5 Pickup 4D 6 1/2 ft,"Linden, NJ",173000,A
+Sold,3095,2003,Toyota tundra limited,"East Meadow, NY",244000,A
+Sold,6500,2004,Toyota tundra double cab Limited Pickup 4D 6 1/2 ft,"Great Neck, NY",268000,B
+Sold,1950,2000,Toyota tundra access cab SR5 Pickup 4D 6 1/2 ft,"West Orange, NJ",249000,A
+Sold,15800,2013,Toyota tundra crewmax Limited Pickup 4D 5 1/2 ft,"Westport, CT",82000,D
+Sold,2500,2000,Toyota tundra regular cab,"Cortlandt Manor, NY",20000,A
+Sold,10500,2004,Toyota tundra access cab SR5 Pickup 4D 6 1/2 ft,"Randolph, NJ",127000,C
+Sold,7500,2006,Toyota tundra double cab SR5 Pickup 4D 6 1/2 ft,"South River, NJ",165000,B
+Sold,2500,2004,Toyota tundra double cab SR5 Pickup 4D 6 1/2 ft,"Elizabeth, NJ",249000,A
+Sold,5950,2003,Toyota tundra access cab SR5 Pickup 4D 6 1/2 ft,"Hillsborough, NJ",162000,B
+Pending,13800,2010,Toyota tundra double cab,"Westtown, NY",136000,C
+Sold,7900,2008,Toyota tundra double cab,"New York, NY",105000,B
+Sold,14900,2011,Toyota tundra regular cab Pickup 2D 6 1/2 ft,"New York, NY",97000,C
+Sold,5500,2003,Toyota tundra regular cab SR5 Pickup 2D 8 ft,"Hackettstown, NJ",183000,B
+Sold,6300,2004,Toyota tundra double cab SR5 Pickup 4D 6 1/2 ft,"Princeton, NJ",200000,B
+Sold,12000,2012,Toyota tundra crewmax Limited Pickup 4D 5 1/2 ft,"Forest Hills, NY",375000,C
+Sold,14500,2010,Toyota tundra double cab 119000,"Haverstraw, NY",119000,C
+Sold,7995,2006,Toyota tundra access cab SR5 Pickup 4D 6 1/2 ft,"Kearny, NJ",138000,B
+Pending,17000,2014,Toyota tundra double cab SR Pickup 4D 6 1/2 ft,"Flemington, NJ",174000,D
+Sold,21500,2015,Toyota tundra crewmax SR5 Pickup 4D 5 1/2 ft,"Brooklyn, NY",100000,E
+Sold,17000,2010,Toyota tundra crewmax Limited Pickup 4D 5 1/2 ft,"Freeport, NY",208000,D
+Sold,8500,2008,Toyota tundra double cab SR5 Pickup 4D 6 1/2 ft,"Ridgewood, NY",200000,B
+Pending,10599,2008,Toyota tundra,"Lakewood, NJ",232000,C
+Sold,8900,2010,Toyota tundra double cab Pickup 4D 8 ft,"Elmwood Park, NJ",280000,B
+Sold,16800,2014,Toyota tundra double cab SR5 Pickup 4D 6 1/2 ft,"Ridgefield, CT",196000,D
+Sold,12995,2014,Toyota tundra double cab SR5 Pickup 4D 8 ft,"Piscataway, NJ",200000,C
+Sold,9995,2008,Toyota tundra double cab SR5 Pickup 4D 6 1/2 ft,"Teaneck, NJ",181000,B
+Sold,10500,2008,Toyota tundra double cab SR5 Pickup 4D 8 ft,"Hackensack, NJ",215000,C
+Sold,12995,2014,Toyota tundra double cab SR5 Pickup 4D 8 ft,"Keyport, NJ",200000,C
+Sold,9500,2007,Toyota tundra double cab SR5 Pickup 4D 6 1/2 ft,"Bronx, NY",101000,B

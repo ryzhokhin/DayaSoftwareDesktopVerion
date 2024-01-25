@@ -1,0 +1,15 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,2900,2004,Chevrolet astro cargo Awd,"Wayne, NJ",200000,A
+Sold,4200,2003,Chevrolet astro passenger Minivan 3D,"Toms River, NJ",147000,A
+Sold,1300,2003,Chevrolet astro passenger Astro AWD,"Newark, NJ",233000,A
+Sold,4000,2003,Chevrolet astro passenger Minivan 3D,"Brooklyn, NY",142000,A
+Sold,5200,2003,Chevrolet astro passenger LT Minivan 3D,"Ridgewood, NY",112000,B
+Sold,1200,2000,Chevrolet astro cargo,"Jamaica, NY",170000,A
+Sold,2950,1999,Chevrolet astro cargo,"Jackson, NJ",79000,A
+Sold,2600,2002,Chevrolet astro passenger,"Bronx, NY",170000,A
+Sold,2700,2004,Chevrolet astro passenger,"Wyckoff, NJ",166000,A
+Sold,3000,2002,Chevrolet astro cargo Minivan 3D,"Katonah, NY",140000,A
+Sold,7200,2005,Chevrolet astro cargo,"West Haverstraw, NY",36000,B
+Sold,7495,2003,Chevrolet astro cargo Minivan 3D,"Garfield, NJ",66000,B
+Sold,3300,2005,Chevrolet astro cargo Minivan 3D,"Cream Ridge, NJ",200000,A
+Sold,10000,2004,Chevrolet astro passenger,"Yorktown Heights, NY",100000,B

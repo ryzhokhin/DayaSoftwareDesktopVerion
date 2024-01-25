@@ -1,0 +1,12 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,6500,2016,BMW x1 xDrive28i Sport Utility 4D,"Brooklyn, NY",100000,B
+Sold,16300,2019,BMW x1 sDrive28i Sport Utility 4D,"Clifton, NJ",107000,D
+Sold,2000,2014,BMW x1 xDrive28i Sport Utility 4D,"Ringoes, NJ",208000,A
+Sold,24499,2018,BMW x1 xDrive28i Sport Utility 4D,"Sparta, NJ",48000,E
+Sold,17999,2016,BMW x1 xDrive28i Sport Utility 4D,"East Hanover, NJ",64000,D
+Sold,16800,2017,BMW x1 xDrive28i Sport Utility 4D,"East Meadow, NY",85000,D
+Sold,9499,2014,BMW x1 xDrive28i Sport Utility 4D,"Cedar Knolls, NJ",99000,B
+Pending,14300,2013,BMW x1,"Fair Haven, NJ",46000,C
+Sold,16852,2017,BMW x1 xDrive28i,"East Meadow, NY",84000,D
+Sold,16852,2017,BMW x1 xDrive28i Sport Utility 4D,"East Meadow, NY",84000,D
+Sold,9500,2014,BMW x1 xDrive28i Sport Utility 4D,"Jersey City, NJ",171000,B

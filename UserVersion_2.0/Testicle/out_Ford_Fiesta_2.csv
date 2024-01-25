@@ -1,0 +1,14 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,1500,2017,Ford fiesta S Sedan 4D,"Bronx, NY",130000,A
+Sold,2500,2012,Ford fiesta SE Hatchback 4D,"Corona, NY",120000,A
+Sold,2000,2011,Ford fiesta Select,"East Windsor, NJ",163000,A
+Sold,3600,2012,Ford fiesta SE Sedan 4D,"Forest Hills, NY",155000,A
+Sold,3000,2011,Ford fiesta,"Jamaica, NY",150000,A
+Sold,3295,2014,Ford fiesta SE Sedan 4D,"Fresh Meadows, NY",139000,A
+Sold,5000,2013,Ford fiesta S Hatchback 4D,"Manville, NJ",121000,A
+Sold,6500,2017,Ford fiesta SE Hatchback 4D,"Haverstraw, NY",60000,B
+Sold,3200,2011,Ford fiesta S Sedan 4D,"Port Murray, NJ",150000,A
+Sold,4500,2011,Ford fiesta S Sedan 4D,"Newark, NJ",88000,A
+Sold,4200,2015,Ford fiesta,"Newark, NJ",167000,A
+Sold,7500,2014,Ford fiesta SE Hatchback 4D,"Howell, NJ",43000,B
+Sold,6250,2014,Ford fiesta SE Sedan 4D,"Plainsboro, NJ",91000,B

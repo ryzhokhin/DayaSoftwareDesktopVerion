@@ -1,0 +1,11 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Pending,13800,2013,Volvo c70 T5 Premier Plus Convertible 2D,"Ephrata, PA",53000,C
+Sold,9200,2012,Volvo c70 T5 Convertible 2D,"Hasbrouck Heights, NJ",133000,B
+Sold,7500,2007,Volvo c70 T5 Convertible 2D,"South Amboy, NJ",89000,B
+Sold,2000,2000,Volvo c70,"Woods Hole, MA",128000,A
+Sold,4900,2008,Volvo c70 T5 Convertible 2D,"Millville, PA",114000,A
+Sold,1200,2000,Volvo c70,"Elrama, PA",120000,A
+Sold,9990,2010,Volvo c70,"South River, NJ",108000,B
+Sold,11995,2011,Volvo c70 T5 Convertible 2D,"Waretown, NJ",79000,C
+Sold,5500,2011,Volvo c70 T5 Convertible 2D,"Bayville, NY",104000,B
+Sold,1800,2004,Volvo c70 HT Convertible 2D,"Milmay, NJ",180000,A

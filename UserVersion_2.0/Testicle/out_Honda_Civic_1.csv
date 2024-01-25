@@ -1,0 +1,34 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,3250,1998,Honda civic HX Coupe 2D,"Howell, NJ",150000,A
+Sold,1500,1999,Honda civic DX Coupe 2D,"Commack, NY",120000,A
+Sold,1500,1990,Honda civic DX Sedan 4D,"Morris Plains, NJ",200000,A
+Pending,1200,2005,Honda civic lx 2d,"Rockaway Park, NY",192000,A
+Sold,3500,2000,Honda civic LX Sedan 4D,"Hollis, NY",1200,A
+Sold,1000,1995,Honda civic DX Coupe 2D,"Woodside, NY",123000,A
+Sold,3300,2005,Honda civic LX Sedan 4D,"Union, NJ",203000,A
+Sold,3800,1986,Honda civic LX Sedan 4D,"Keasbey, NJ",121000,A
+Sold,1000,2005,Honda civic EX Sedan 4D,"Woodside, NY",240000,A
+Sold,1500,1997,Honda civic LX Sedan 4D,"Elizabeth, NJ",150000,A
+Sold,2900,2001,Honda civic EX Sedan 4D,"Long Island City, NY",110000,A
+Sold,2300,1999,Honda civic LX Sedan 4D,"Fairfield, NJ",135000,A
+Sold,1100,1998,Honda civic EX Coupe 2D,"Somerset, NJ",98000,A
+Sold,1500,1996,Honda civic CX Hatchback 2D,"Jersey City, NJ",300,A
+Sold,1500,2006,Honda civic,"Jersey City, NJ",219000,A
+Sold,1500,2000,Honda civic LX Sedan 4D,"New York, NY",107000,A
+Sold,3000,1998,Honda civic DX Hatchback 2D,"Bay Shore, NY",110000,A
+Sold,1000,1988,Honda civic DX Sedan 4D,"Newark, NJ",86000,A
+Sold,1500,2004,Honda civic EX Coupe 2D,"Westbury, NY",161000,A
+Sold,3000,2008,Honda civic DX Coupe 2D,"Valley Stream, NY",159000,A
+Sold,1950,1998,Honda civic LX Sedan 4D,"Manalapan, NJ",197000,A
+Sold,1500,1997,Honda civic EX Coupe 2D,"Brentwood, NY",202000,A
+Sold,5500,1996,Honda civic CX Hatchback 2D,"Mamaroneck, NY",124000,B
+Sold,1300,2000,Honda civic EX Sedan 4D,"Jersey City, NJ",190000,A
+Pending,4860,2008,Honda civic LX Sedan 4D,"Bloomfield, NJ",125000,A
+Sold,1200,1999,Honda civic LX Sedan 4D,"Mamaroneck, NY",194000,A
+Sold,1800,1991,Honda civic,"Toms River, NJ",137000,A
+Sold,1100,2005,Honda civic EX Sedan 4D,"Ridgefield, NJ",115000,A
+Pending,1900,2006,Honda civic LX Sedan 4D,"Green, NJ",241000,A
+Sold,2000,2001,Honda civic LX Coupe 2D,"Plainfield, NJ",173000,A
+Sold,3500,1995,Honda civic,"Hempstead, NY",170000,A
+Sold,1200,2004,Honda civic LX Coupe 2D,"New Rochelle, NY",80000,A
+Sold,1234,1997,Honda civic LX Sedan 4D,"Cranford, NJ",260000,A

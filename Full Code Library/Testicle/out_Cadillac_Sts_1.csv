@@ -1,0 +1,11 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,5900,2008,Cadillac sts Sedan 4D,"New Rochelle, NY",100000,B
+Sold,1800,2005,Cadillac sts Sedan 4D,"Pottstown, PA",90000,A
+Sold,5995,2005,Cadillac sts Sedan 4D,"Bellaire, OH",62000,B
+Sold,1000,2006,Cadillac sts Sedan 4D,"West Hartford, CT",149000,A
+Sold,2000,2007,Cadillac sts Sedan 4D,"Charlottesville, VA",91000,A
+Sold,1000,2006,Cadillac sts v8 all wheel drive,"Merrimac, MA",190000,A
+Sold,1500,2006,Cadillac sts Sedan 4D,"Williamsport, MD",163000,A
+Sold,3000,2006,Cadillac sts Sedan 4D,"Reading, PA",82000,A
+Sold,2500,2005,Cadillac sts,"Milton, PA",123000,A
+Sold,2400,2005,Cadillac sts Sedan 4D,"New Haven, CT",12000,A

@@ -1,0 +1,15 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Pending,8500,2000,Porsche boxster Cabriolet 2D,"Copiague, NY",120000,B
+Sold,4000,2002,Porsche boxster,"Kew Gardens, NY",100000,A
+Sold,11500,2001,Porsche boxster Cabriolet 2D,"Ridgewood, NJ",92000,C
+Sold,28500,2010,Porsche boxster S Convertible 2D,"Scotch Plains, NJ",63000,F
+Sold,48500,2022,Porsche 718 boxster,"Yonkers, NY",10000,F
+Pending,10000,2003,Porsche boxster,"North Adams, MA",67000,B
+Sold,8800,2001,Porsche boxster s,"Hyndman, PA",45000,B
+Sold,8500,2005,Porsche boxster S Cabriolet 2D,"Buffalo, NY",170000,B
+Sold,6500,2003,Porsche boxster,"Somerville, MA",240000,B
+Sold,9900,2001,Porsche boxster Cabriolet 2D,"Newburyport, MA",49000,B
+Sold,21990,2006,Porsche boxster,"Willow Grove, PA",46000,E
+Sold,2800,2001,Porsche boxster,"Wayne, NJ",186000,A
+Sold,6000,2000,Porsche boxster Cabriolet 2D,"Richmond, VA",99000,B
+Sold,6000,2000,Porsche boxster Cabriolet 2D,"Groton, MA",76000,B

@@ -1,0 +1,13 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Pending,2800,1990,Volvo 240 Wagon 4D,"New York, NY",188000,A
+Sold,2900,1990,Volvo 240 Sedan 4D,"New York, NY",108000,A
+Sold,6999,1991,Volvo 240SE special edition,"Ridgewood, NY",80000,B
+Sold,4500,1988,Volvo 240 DL,"Aldan, PA",296000,A
+Sold,1000,1993,Volvo 240 Wagon 4D,"West Townshend, VT",2000,A
+Sold,1800,1992,Volvo 240 Wagon 4D,"Hanover, PA",186000,A
+Sold,4000,1987,Volvo 240 DL,"Penns Grove, NJ",195000,A
+Sold,2500,1992,Volvo 240 Sedan 4D,"Milford, CT",245000,A
+Sold,2000,1985,Volvo 240 GL Sedan 4D,"Chestertown, MD",239000,A
+Sold,1500,1991,Volvo 240 Sedan 4D,"Amsterdam, NY",103000,A
+Pending,2700,1993,Volvo 240 Sedan 4D,"Norfolk, VA",286000,A
+Sold,3900,1992,Volvo 240 Wagon 4D,"Burlington, VT",165000,A

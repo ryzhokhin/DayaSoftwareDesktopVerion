@@ -1,0 +1,11 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,5000,2005,Audi s4 (2005.5) Quattro Sedan 4D,"Bronx, NY",139000,A
+Sold,1800,2002,Audi s4 2.7T Sedan 4D,"Rahway, NJ",162000,A
+Sold,3000,2010,Audi s4 Quattro Sedan 4D,"North Bergen, NJ",189000,A
+Sold,10000,2010,Audi s4 Quattro Sedan 4D,"Newark, NJ",96000,B
+Sold,5000,2004,Audi s4 Quattro Sedan 4D,"Englewood, NJ",145000,A
+Sold,15900,2010,Audi s4 Quattro Sedan 4D,"Florham Park, NJ",104000,D
+Sold,5000,2011,Audi s4 Quattro Sedan 4D,"Newark, NJ",55000,A
+Sold,4999,2005,Audi s4 Quattro Cabriolet 2D,"Hackettstown, NJ",95000,A
+Sold,9500,2010,Audi s4,"Staten Island, NY",200000,B
+Sold,14999,2011,Audi s4,"Belleville, NJ",131000,C

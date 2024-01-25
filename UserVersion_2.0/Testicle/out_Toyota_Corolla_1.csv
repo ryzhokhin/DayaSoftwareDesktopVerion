@@ -1,0 +1,28 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,1500,2007,Toyota corolla CE Sedan 4D,"Englewood, NJ",173000,A
+Sold,1500,1994,Toyota corolla DX Sedan 4D,"Mt Vernon, NY",187000,A
+Sold,1200,1996,Toyota corolla,"Elizabeth, NJ",200000,A
+Sold,1500,1999,Toyota corolla VE Sedan 4D,"Brick, NJ",202000,A
+Sold,1500,1999,Toyota corolla LE Sedan 4D,"West Islip, NY",135000,A
+Sold,2000,1998,Toyota corolla LE Sedan 4D,"Huntington Station, NY",193000,A
+Sold,1950,2000,Toyota corolla VE Sedan 4D,"Mt Vernon, NY",200000,A
+Sold,1200,2001,Toyota corolla CE Sedan 4D,"New Brunswick, NJ",180000,A
+Sold,1200,1997,Toyota corolla Sedan 4D,"Passaic, NJ",165000,A
+Sold,1400,1996,Toyota corolla DX Sedan 4D,"Jamaica, NY",1800,A
+Sold,1000,2001,Toyota corolla CE Sedan 4D,"Lodi, NJ",164000,A
+Sold,5800,1999,Toyota corolla LE Sedan 4D,"Union, NJ",32000,B
+Pending,1300,2000,Toyota corolla,"Irvington, NJ",20000,A
+Sold,3000,1996,Toyota corolla DX Sedan 4D,"Jamaica, NY",120000,A
+Sold,1700,2003,Toyota corolla,"Jackson, NJ",184000,A
+Sold,1500,1997,Toyota corolla,"Bay Shore, NY",175000,A
+Sold,2000,1997,Toyota corolla CE Sedan 4D,"Paterson, NJ",197000,A
+Sold,1200,1993,Toyota corolla Deluxe Sedan 4D,"Plainview, NY",132000,A
+Sold,3000,2004,Toyota corolla CE Sedan 4D,"Huntington Station, NY",710000,A
+Sold,12240,2015,Toyota corolla S Plus Sedan 4D,"Wayne, NJ",59000,C
+Sold,1800,1999,Toyota corolla CE Sedan 4D,"Carteret, NJ",141000,A
+Sold,2500,1995,Toyota corolla Sedan 4D,"Huntington, NY",115000,A
+Sold,2500,1992,Toyota corolla LE Sedan 4D,"Freeport, NY",42000,A
+Sold,2000,1998,Toyota corolla LE Sedan 4D,"Stamford, CT",132000,A
+Sold,1100,1994,Toyota corolla DX Sedan 4D,"Jersey City, NJ",191000,A
+Sold,2600,2002,Toyota corolla CE Sedan 4D,"Yonkers, NY",161000,A
+Sold,3240,2005,Toyota corolla LE Sedan 4D,"Queens Village, NY",200000,A

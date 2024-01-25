@@ -1,0 +1,5 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,1000,2016,Volvo v60 T5 Cross Country Wagon 4D,"Falmouth, ME",160000,A
+Sold,12000,2017,Volvo v60 Other,"North Hampton, NH",102000,C
+Pending,7895,2015,Volvo v60 T5 Premier Wagon 4D,"Reading, PA",170000,B
+Sold,8000,2015,Volvo v60,"Meredith, NH",138000,B

@@ -1,0 +1,28 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,1100,2001,Mitsubishi galant ES Sedan 4D,"Iselin, NJ",116000,A
+Pending,15000,1998,Mitsubishi 3000gt SL Coupe 2D,"Long Branch, NJ",103000,C
+Sold,2000,2004,Mitsubishi lancer,"Monroe, NY",110000,A
+Sold,1000,1995,Mitsubishi 3000gt,"Florida, NY",12000,A
+Sold,3500,2006,Mitsubishi eclipse GS Coupe 2D,"Bound Brook, NJ",134000,A
+Sold,1900,2003,Mitsubishi galant ES Sedan 4D,"Brooklyn, NY",102000,A
+Sold,2800,2002,Mitsubishi galant LS Sedan 4D,"Springfield Gardens, NY",114000,A
+Sold,1900,2001,Mitsubishi galant LS Sedan 4D,"New York, NY",146000,A
+Sold,1900,2002,Mitsubishi lancer ES Sedan 4D,"Peekskill, NY",175000,A
+Sold,2300,2003,Mitsubishi lancer ES Sedan 4D,"Clifton, NJ",153000,A
+Sold,2399,2003,Mitsubishi lancer ES Sedan 4D,"Clifton, NJ",153000,A
+Sold,1900,2004,Mitsubishi lancer ES Sedan 4D,"New Brunswick, NJ",170000,A
+Sold,3456,2007,Mitsubishi eclipse GS Coupe 2D,"Toms River, NJ",169000,A
+Sold,3500,1998,Mitsubishi eclipse GS Spyder Convertible 2D,"Manheim, PA",136000,A
+Sold,1000,1993,Mitsubishi 3000gt VR-4 Coupe 2D,"Binghamton, NY",169000,A
+Sold,1000,1998,Mitsubishi eclipse GS Coupe 2D,"Mahanoy City, PA",175000,A
+Sold,3500,1998,Mitsubishi fg,"Glenford, NY",88000,A
+Sold,2000,2000,Mitsubishi eclipse RS Coupe 2D,"Trumbull, CT",146000,A
+Sold,2000,2001,Mitsubishi lance SV,"Newport News, VA",111000,A
+Sold,2250,1998,Mitsubishi eclipse GS Coupe 2D,"Milton, VT",138000,A
+Sold,2000,2003,Mitsubishi lancer O-Z Rally Edition Sedan 4D,"West Haven, CT",185000,A
+Sold,2700,1999,Mitsubishi mirage LS Coupe 2D,"York, PA",1200,A
+Sold,1234,1998,Mitsubishi eclipse GS-T Spyder Convertible 2D,"Cobleskill, NY",100000,A
+Sold,4500,2000,Mitsubishi eclipse GT Coupe 2D,"York, PA",97000,A
+Sold,12000,1995,Mitsubishi 3000gt SL Spyder Convertible 2D,"Manalapan, NJ",48000,C
+Sold,1234,1995,Mitsubishi eclipse GS Coupe 2D,"Mifflin, PA",175000,A
+Sold,2000,2002,Mitsubishi eclipse RS Coupe 2D,"Bridgeton, NJ",240000,A

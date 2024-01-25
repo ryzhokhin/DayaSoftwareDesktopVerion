@@ -1,0 +1,4 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,5995,2005,Lexus rx,"Greenwich, CT",99000,B
+Sold,11200,2010,Lexus rx 350,"Jersey City, NJ",147000,C
+Sold,3900,2004,Lexus rx,"Belleville, NJ",196000,A

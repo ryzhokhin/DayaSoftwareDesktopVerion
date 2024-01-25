@@ -1,0 +1,6 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,16500,2000,BMW z3 Coupe 2D,"Hartsdale, NY",2200,D
+Sold,11500,2000,BMW z3 2.8 Roadster 2D,"Newton, NJ",27000,C
+Sold,6800,1997,BMW z3 6-Cyl Roadster 2D,"Huntington Station, NY",149000,B
+Pending,7500,2000,BMW z3 2.5i Roadster 2D,"White Plains, NY",104000,B
+Sold,18999,2000,BMW z3 M,"Melville, NY",49000,D

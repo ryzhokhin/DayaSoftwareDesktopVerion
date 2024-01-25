@@ -1,0 +1,4 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,9300,1997,Toyota celsior (rhd),"Vineland, NJ",103000,B
+Pending,14000,1995,Toyota celsior,"Midlothian, VA",60000,C
+Sold,11000,1993,Toyota celsior,"Manassas, VA",42000,C

@@ -1,0 +1,38 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,2995,1998,BMW 3 series 328i Sedan 4D,"North Bergen, NJ",190000,A
+Sold,3000,2006,BMW 3 series 330xi Sedan 4D,"Bronx, NY",130000,A
+Sold,8500,1997,BMW m3 Sedan 4D,"Little Neck, NY",170000,B
+Sold,4500,2006,BMW 3 series 325xi Sedan 4D,"Paterson, NJ",185000,A
+Sold,5800,1998,BMW 3 series 328i Convertible 2D,"East Meadow, NY",79000,B
+Sold,8400,1998,BMW series 3,"Belleville, NJ",71000,B
+Sold,8000,2002,BMW m3 Coupe 2D,"Brooklyn, NY",134000,B
+Sold,2700,2004,BMW 3 series 325i Sedan 4D,"Roselle, NJ",144000,A
+Sold,16500,2000,BMW z3 Coupe 2D,"Hartsdale, NY",2200,D
+Sold,4200,1998,BMW 3 series 323is Coupe 2D,"Harrison, NY",120000,A
+Sold,4000,2000,BMW 3 series 323Ci Convertible 2D,"Brooklyn, NY",135000,A
+Sold,4000,1995,BMW 3 series 325is Coupe 2D,"Ridgefield, CT",260000,A
+Sold,2000,1998,BMW 3 series 323is Coupe 2D,"Locust Valley, NY",217000,A
+Sold,4000,1998,BMW 3 series 323i Convertible 2D,"St Albans, NY",173000,A
+Sold,10000,1996,BMW 3 series Touring,"Hackensack, NJ",185000,B
+Sold,10000,1997,BMW 3 series 318ti Hatchback Coupe 2D,"New York, NY",200000,B
+Sold,7500,2000,BMW 3 series 323i Wagon 4D,"Greenwich, CT",1600,B
+Sold,6900,2004,BMW 3 series 330Ci Coupe 2D,"New Canaan, CT",97000,B
+Sold,1500,1996,BMW 3 series 328is Coupe 2D,"Spring Lake, NJ",125000,A
+Sold,2650,2007,BMW 3 series 328xi Sedan 4D,"Elmwood Park, NJ",165000,A
+Pending,1200,2000,BMW 3 series 323i Sedan 4D,"Rosedale, NY",200000,A
+Sold,9999,1992,BMW 3 series M-Tech Apperance,"Nanuet, NY",121000,B
+Sold,5800,2004,BMW 3 series 325xi Sedan 4D,"Garwood, NJ",104000,B
+Sold,4300,1999,BMW 3 series 323i Convertible 2D,"West Hempstead, NY",140000,A
+Sold,2300,2012,BMW 3 series 328i xDrive Sport Wagon 4D,"New York, NY",130000,A
+Sold,3000,2006,BMW 3 series,"Passaic, NJ",164000,A
+Sold,2950,2002,BMW 3 series 325i Sedan 4D,"Brooklyn, NY",123000,A
+Sold,1200,2002,BMW 3 series 325i Sedan 4D,"Huntington, NY",152000,A
+Sold,7500,1997,BMW 3 series 328i Sedan 4D,"Brooklyn, NY",146000,B
+Sold,1999,1999,BMW 3 series 323i Convertible 2D,"Middletown, NY",195000,A
+Sold,5500,2002,BMW 5 series 530i Sedan 4D,"Stamford, CT",97000,B
+Sold,3000,1989,BMW 3 series 325Ci Convertible 2D,"Paterson, NJ",146000,A
+Sold,4000,2004,BMW 3 series 325xiT Wagon 4D,"Freeport, NY",189000,A
+Sold,2800,1997,BMW series 3,"Deer Park, NY",250000,A
+Sold,2800,2009,BMW 754638875658882 328i Coupe 2D,"New York, NY",100000,A
+Sold,3500,2006,BMW 3 series 325i Sedan 4D,"Jersey City, NJ",140000,A
+Sold,3000,2000,BMW 3 series 323i Sedan 4D,"Bushkill, PA",131000,A

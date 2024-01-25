@@ -1,0 +1,19 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,2800,2005,Ford escape XLT Sport SUV 4D,"Newark, NJ",138000,A
+Sold,1999,2001,Ford escape XLT Sport Utility 4D,"Elizabeth, NJ",131000,A
+Sold,3900,2010,Ford escape XLT Sport Utility 4D,"Paterson, NJ",159000,A
+Sold,1500,2006,Ford escape Limited Sport Utility 4D,"Paterson, NJ",187000,A
+Sold,2000,2005,Ford escape,"Fairfield, NJ",170000,A
+Sold,5600,2008,Ford escape Limited Sport Utility 4D,"North Brunswick, NJ",108000,B
+Sold,1700,2015,Ford escape SE Sport Utility 4D,"Brooklyn, NY",170000,A
+Sold,1000,2005,Ford escape Limited Sport Utility 4D,"Massapequa, NY",222000,A
+Sold,2200,2004,Ford escape Limited Sport Utility 4D,"Paterson, NJ",135000,A
+Sold,3300,2005,Ford escape Limited Sport Utility 4D,"Staten Island, NY",110000,A
+Sold,1500,2011,Ford ford+escape XLT+Sport+Utility+4D,"New York, NY",110000,A
+Sold,1300,2008,Ford escape,"Brooklyn, NY",213000,A
+Sold,2100,2009,Ford escape,"Flushing, NY",139000,A
+Sold,6995,2013,Ford escape SE Sport Utility 4D,"Garfield, NJ",116000,B
+Sold,2800,2005,Ford escape XLS Sport Utility 4D,"Bronx, NY",147000,A
+Sold,4950,2011,Ford escape XLT Sport Utility 4D,"Hazlet, NJ",109000,A
+Sold,3200,2007,Ford escape XLT Sport Utility 4D,"Montclair, NJ",159000,A
+Pending,2500,2007,Ford escape XLT Sport SUV 4D,"Basking Ridge, NJ",1500,A

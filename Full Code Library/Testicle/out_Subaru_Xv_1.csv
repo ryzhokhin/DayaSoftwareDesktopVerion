@@ -1,0 +1,8 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,5850,2013,Subaru xv crosstrek Limited Sport Utility 4D,"Brooklyn, NY",222000,B
+Sold,7600,2014,Subaru xv crosstrek,"Southampton, MA",86000,B
+Sold,6900,2014,Subaru xv crosstrek Premium Sport Utility 4D,"Newark, NJ",155000,B
+Sold,4300,2015,Subaru xv crosstrek Premium Sport Utility 4D,"Newburgh, NY",193000,A
+Sold,10200,2014,Subaru xv crosstrek Hybrid Touring Sport Utility 4D,"Haverhill, MA",86000,C
+Pending,6500,2015,Subaru xv crosstrek Hybrid Sport Utility 4D,"Turner, ME",123000,B
+Sold,7200,2014,Subaru xv crosstrek Premium Sport Utility 4D,"Rockaway, NJ",186000,B

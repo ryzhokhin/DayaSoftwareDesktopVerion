@@ -1,0 +1,7 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,12500,2017,Mazda cx-3 Touring Sport Utility 4D,"Staten Island, NY",61000,C
+Sold,19950,2021,Mazda cx-30 select AWD,"Brooklyn, NY",43000,D
+Sold,4500,2020,Mazda cx-30,"New York, NY",20000,A
+Pending,16900,2019,Mazda cx-3,"College Point, NY",69000,D
+Pending,16900,2019,Mazda cx-3 Sport,"New York, NY",69000,D
+Sold,2600,2019,Mazda cx-3,"Westport, CT",58000,A

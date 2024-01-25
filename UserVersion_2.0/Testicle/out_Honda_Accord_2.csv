@@ -1,0 +1,31 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,2000,2000,Honda accord LX Sedan 4D,"Bronx, NY",172000,A
+Sold,1890,1998,Honda accord DX Sedan 4D,"Paterson, NJ",125000,A
+Sold,1500,2007,Honda accord EX Sedan 4D,"Jersey City, NJ",192000,A
+Sold,2200,2005,Honda accord LX Sedan 4D,"Rutherford, NJ",157000,A
+Pending,2199,2007,Honda accord,"Clifton, NJ",20000,A
+Sold,3800,2005,Honda accord EX Sedan 4D,"East Orange, NJ",160000,A
+Sold,1000,1996,Honda accord LX Sedan 4D,"Somerset, NJ",149000,A
+Sold,2000,2004,Honda accord LX Sedan 4D,"Paterson, NJ",192000,A
+Sold,3000,1998,Honda accord LX Sedan 4D,"South Ozone Park, NY",151000,A
+Sold,4100,2006,Honda accord,"Perth Amboy, NJ",139000,A
+Sold,1100,2002,Honda accord,"Bloomfield, NJ",127000,A
+Sold,1000,1999,Honda accord LX Sedan 4D,"Passaic, NJ",250000,A
+Sold,1800,2001,Honda accord EX Coupe 2D,"Putnam Valley, NY",78000,A
+Sold,2000,2002,Honda accord EX Sedan 4D,"Maspeth, NY",124000,A
+Sold,1400,1999,Honda accord EX Sedan 4D,"Huntington, NY",253000,A
+Sold,3899,2006,Honda accord EX-L Sedan 4D,"South Amboy, NJ",135000,A
+Sold,1000,2002,Honda accord EX Sedan 4D,"Yonkers, NY",150000,A
+Sold,1300,2002,Honda accord EX Sedan 4D,"Stony Point, NY",197000,A
+Sold,8900,2013,Honda accord EX Sedan 4D,"Bronx, NY",96000,B
+Sold,1500,1998,Honda accord LX Sedan 4D,"Babylon, NY",250000,A
+Sold,1000,2002,Honda accord,"Brentwood, NY",175000,A
+Sold,1550,1995,Honda accord EX Sedan 4D,"Boonton, NJ",290000,A
+Sold,3600,2010,Honda accord LX Sedan 4D,"Union, NJ",140000,A
+Sold,1000,2002,Honda accord LX Sedan 4D,"Clifton, NJ",205000,A
+Sold,1350,2002,Honda accord,"Bloomfield, NJ",127000,A
+Sold,3600,2001,Honda accord EX Sedan 4D,"Somerset, NJ",144000,A
+Sold,2500,2002,Honda accord LX Sedan 4D,"Moonachie, NJ",142000,A
+Sold,1300,2001,Honda accord LX Sedan 4D,"Stamford, CT",158000,A
+Sold,1999,2007,Honda accord LX Sedan 4D,"Union City, NJ",249000,A
+Sold,2500,1999,Honda accord EX Coupe 2D,"Bronx, NY",150000,A

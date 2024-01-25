@@ -1,0 +1,12 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Pending,5300,1995,Mercedes-Benz sl-class SL 500 Roadster 2D,"West Hempstead, NY",101000,B
+Sold,5500,2003,Mercedes-Benz sl-class SL 500 Roadster 2D,"Brooklyn, NY",147000,B
+Sold,10500,1999,Mercedes-Benz sl-class SL 500 Roadster 2D,"Hillsdale, NJ",49000,C
+Sold,2000,1999,Mercedes-Benz slk-class SLK 230 Roadster 2D,"Oakdale, NY",150000,A
+Sold,2500,1981,Mercedes-Benz sl,"Elmont, NY",77000,A
+Sold,3000,1999,Mercedes-Benz 230 slk kompressor,"Holmdel, NJ",130000,A
+Sold,4500,1995,Mercedes-Benz sl-class SL 500 Roadster 2D,"Staten Island, NY",188000,A
+Sold,4200,2006,Mercedes-Benz slk-class 350,"Wyckoff, NJ",85000,A
+Sold,9000,1997,Mercedes-Benz sl-class SL 500 Roadster 2D,"Closter, NJ",77000,B
+Sold,8500,2005,Mercedes-Benz sl-class SL 500 Roadster 2D,"Deer Park, NY",75000,B
+Sold,30000,1999,Mercedes-Benz sl-class SL 500 Roadster 2D,"Smithtown, NY",35000,F

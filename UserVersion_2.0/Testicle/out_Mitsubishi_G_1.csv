@@ -1,0 +1,8 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,1100,2001,Mitsubishi galant ES Sedan 4D,"Iselin, NJ",116000,A
+Sold,1000,1993,Mitsubishi 3000gt VR-4 Coupe 2D,"Binghamton, NY",169000,A
+Sold,1000,1995,Mitsubishi 3000gt,"Florida, NY",12000,A
+Sold,3500,1998,Mitsubishi fg,"Glenford, NY",88000,A
+Pending,15000,1998,Mitsubishi 3000gt SL Coupe 2D,"Long Branch, NJ",103000,C
+Sold,1600,2001,Mitsubishi galant ES Sedan 4D,"Pennsauken, NJ",132000,A
+Sold,3400,1996,Mitsubishi 3000gt Sl,"Fort Washington, MD",160000,A

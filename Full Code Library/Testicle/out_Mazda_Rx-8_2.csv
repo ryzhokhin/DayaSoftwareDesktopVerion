@@ -1,0 +1,6 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,5000,2004,Mazda rx-8 Coupe 4D,"Hawthorne, NJ",89000,A
+Sold,1000,2004,Mazda rx-8 Coupe 4D,"Fort Monmouth, NJ",72000,A
+Pending,3500,2004,Mazda rx-8 Coupe 4D,"Ronkonkoma, NY",112000,A
+Sold,6000,2005,Mazda rx-8 Coupe 4D,"West Haverstraw, NY",123000,B
+Sold,6500,2006,Mazda rx-8 Coupe 4D,"Ocean Grove, NJ",110000,B

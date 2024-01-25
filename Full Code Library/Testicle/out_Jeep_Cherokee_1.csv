@@ -1,0 +1,36 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,2000,2000,Jeep grand cherokee Limited Sport Utility 4D,"Brooklyn, NY",128000,A
+Sold,4950,1998,Jeep cherokee Sport SUV 4D,"Bayville, NJ",244000,A
+Sold,2000,1998,Jeep cherokee SE Sport Utility 4D,"Toms River, NJ",900000,A
+Sold,5500,2011,Jeep grand cherokee Laredo Sport Utility 4D,"Bayonne, NJ",177000,B
+Sold,1500,2002,Jeep grand cherokee Laredo Sport Utility 4D,"Floral Park, NY",180000,A
+Sold,5000,2001,Jeep cherokee Classic Sport Utility 4D,"Morganville, NJ",119000,A
+Sold,1650,1998,Jeep grand cherokee Laredo Sport Utility 4D,"Middletown, NY",240000,A
+Pending,2500,1995,Jeep cherokee Sport SUV 4D,"Long Beach, NY",136000,A
+Sold,6000,2000,Jeep cherokee Sport SUV 4D,"Livingston, NJ",152000,B
+Sold,2500,1999,Jeep grand cherokee no rust Limited,"Amityville, NY",162000,A
+Sold,1900,2001,Jeep cherokee,"East Setauket, NY",238000,A
+Sold,6500,2012,Jeep grand cherokee Laredo Sport Utility 4D,"East Elmhurst, NY",115000,B
+Sold,1800,2001,Jeep grand cherokee Laredo Sport Utility 4D,"Staten Island, NY",175000,A
+Sold,4500,1999,Jeep cherokee Classic Sport Utility 4D,"Brooklyn, NY",145000,A
+Sold,1000,2001,Jeep cherokee Sport Utility 4D,"Manalapan, NJ",175000,A
+Sold,2250,1999,Jeep grand cherokee Laredo Sport Utility 4D,"Orange, NJ",100000,A
+Sold,6000,1999,Jeep cherokee Sport SUV 4D,"Suffern, NY",141000,B
+Sold,3300,2000,Jeep cherokee Sport SUV 4D,"North Plainfield, NJ",145000,A
+Sold,16800,2019,Jeep cherokee Limited Sport Utility 4D,"New York, NY",50000,D
+Pending,5000,2002,Jeep grand cherokee Laredo Sport Utility 4D,"Baldwin, NY",46000,A
+Sold,1999,2003,Jeep grand cherokee laredo,"Clifton, NJ",103000,A
+Pending,6000,2000,Jeep cherokee Sport SUV 4D,"New Egypt, NJ",159000,B
+Sold,5000,2004,Jeep grand cherokee Laredo Sport Utility 4D,"Titusville, NJ",131000,A
+Sold,4000,1999,Jeep cherokee SE Sport Utility 4D,"New Rochelle, NY",119000,A
+Sold,3000,1999,Jeep cherokee Classic Sport Utility 4D,"Chester, NY",180000,A
+Sold,1800,2004,Jeep grand cherokee Laredo Sport Utility 4D,"Islip, NY",168000,A
+Sold,2600,1999,Jeep grand cherokee Laredo Sport Utility 4D,"Toms River, NJ",116000,A
+Sold,6000,2000,Jeep cherokee Sport SUV 2D,"Bohemia, NY",150000,B
+Sold,1500,2000,Jeep grand cherokee Laredo Sport Utility 4D,"Islip, NY",121000,A
+Sold,3500,2004,Jeep grand cherokee,"Newark, NJ",104000,A
+Pending,8000,2015,Jeep cherokee Limited Sport Utility 4D,"Bronx, NY",127000,B
+Sold,9500,2014,Jeep grand cherokee Laredo Sport Utility 4D,"Hoboken, NJ",128000,B
+Sold,17500,2000,Jeep cherokee Sport SUV 4D,"Freehold, NJ",242000,D
+Sold,14900,2015,Jeep grand cherokee Summit Sport Utility 4D,"New York, NY",89000,C
+Sold,5800,2007,Jeep grand cherokee Laredo Sport Utility 4D,"Bethpage, NY",113000,B

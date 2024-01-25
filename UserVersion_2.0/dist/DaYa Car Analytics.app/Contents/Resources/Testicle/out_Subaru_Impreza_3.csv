@@ -1,0 +1,20 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Pending,4400,1998,Subaru impreza L Sedan 4D,"Montvale, NJ",88000,A
+Sold,1500,1999,Subaru impreza Outback Sport Wagon 4D,"Vernon, NJ",157000,A
+Sold,1600,1999,Subaru impreza Outback Sport Wagon 4D,"Palisades Park, NJ",180000,A
+Sold,2250,2006,Subaru impreza Sedan,"Monroe, NY",150000,A
+Pending,7200,2002,Subaru impreza WRX Sedan 4D,"Baldwin, NY",169000,B
+Sold,2000,2008,Subaru impreza 2.5i Premium Sedan 4D,"Peekskill, NY",176000,A
+Pending,2000,1998,Subaru impreza 2.5RS Coupe 2D,"Adams, MA",277000,A
+Sold,3600,2002,Subaru impreza WRX Sedan 4D,"Columbia, MD",206000,A
+Sold,6000,2013,Subaru impreza 2.0i Limited Wagon 4D,"Laurel, MD",150000,B
+Sold,1500,2002,Subaru impreza 2.5RS Sedan 4D,"White Plains, NY",106000,A
+Pending,8000,2000,Subaru impreza 2.5RS Coupe 2D,"Slatington, PA",246000,B
+Sold,5000,2001,Subaru impreza 2.5RS Sedan 4D,"Latrobe, PA",130000,A
+Pending,2000,2002,Subaru impreza WRX Sedan 4D,"Scranton, PA",120000,A
+Sold,4995,2010,Subaru impreza WRX Limited Sport Wagon 4D,"Cromwell, CT",170000,A
+Sold,3500,2009,Subaru impreza 2.5GT Sport Wagon 4D,"Dover, NJ",162000,A
+Sold,2000,2012,Subaru impreza 2.0i Premium Sedan 4D,"Allentown, PA",170000,A
+Sold,1850,2007,Subaru impreza 2.5i Sport Wagon 4D,"Linden, NJ",126000,A
+Sold,4000,2002,Subaru impreza WRX Sport Wagon 4D,"Morganville, NJ",120000,A
+Sold,5500,2002,Subaru impreza WRX Sport Wagon 4D,"Joppa, MD",174000,B

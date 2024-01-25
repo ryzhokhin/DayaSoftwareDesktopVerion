@@ -1,0 +1,5 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,3700,2005,Mercedes-Benz clk-class CLK 320 Cabriolet 2D,"New Hyde Park, NY",126000,A
+Sold,1800,2002,Mercedes-Benz clk-class CLK 430 Cabriolet 2D,"Bronx, NY",180000,A
+Sold,7500,2005,Mercedes-Benz clk-class CLK 500 Cabriolet 2D,"Hackensack, NJ",134000,B
+Sold,42999,2023,Mercedes-Benz glb 250,"Secaucus, NJ",9000,F

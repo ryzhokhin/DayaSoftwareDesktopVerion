@@ -1,0 +1,24 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,2900,2009,Mitsubishi lancer GTS Sedan 4D,"New Brunswick, NJ",145000,A
+Sold,2000,2004,Mitsubishi lancer,"Monroe, NY",110000,A
+Sold,3000,2008,Mitsubishi lancer,"Elizabeth, NJ",168000,A
+Sold,2999,2008,Mitsubishi lancer ES Sedan 4D,"Brooklyn, NY",190000,A
+Sold,3800,2008,Mitsubishi lancer DE Sedan 4D,"North Arlington, NJ",144000,A
+Sold,1234,2009,Mitsubishi lancer ES Sedan 4D,"Cookstown, NJ",142000,A
+Sold,4000,2008,Mitsubishi lancer ES Sedan 4D,"Jersey City, NJ",139000,A
+Sold,4500,2009,Mitsubishi lancer DE Sedan 4D,"East Hanover, NJ",151000,A
+Sold,1900,2002,Mitsubishi lancer ES Sedan 4D,"Peekskill, NY",175000,A
+Sold,2300,2003,Mitsubishi lancer ES Sedan 4D,"Clifton, NJ",153000,A
+Sold,4500,2009,Mitsubishi lancer GTS Sedan 4D,"Plainsboro, NJ",140000,A
+Sold,4650,2016,Mitsubishi lancer Se 4x4,"Fair Lawn, NJ",152000,A
+Sold,2399,2003,Mitsubishi lancer ES Sedan 4D,"Clifton, NJ",153000,A
+Sold,1900,2004,Mitsubishi lancer ES Sedan 4D,"New Brunswick, NJ",170000,A
+Sold,6200,2008,Mitsubishi lancer GTS Sedan 4D,"Newark, NJ",88000,B
+Sold,6500,2010,Mitsubishi lancer DE Sedan 4D,"Nyack, NY",116000,B
+Sold,5800,2012,Mitsubishi lancer ES Sedan 4D,"Brooklyn, NY",160000,B
+Sold,3400,2008,Mitsubishi lancer ES Sedan 4D,"Kenilworth, NJ",131000,A
+Sold,33900,2006,Mitsubishi lancer,"Belleville, NJ",94000,F
+Sold,6500,2008,Mitsubishi lancer GTS Sedan 4D,"North Plainfield, NJ",126000,B
+Sold,7300,2010,Mitsubishi lancer GTS Sedan 4D,"Perth Amboy, NJ",123000,B
+Sold,12000,2006,Mitsubishi lancer Evolution IX Sedan 4D,"Bronx, NY",207000,C
+Sold,6490,2011,Mitsubishi lancer ES Sedan 4D,"Teaneck, NJ",102000,B

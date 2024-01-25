@@ -1,0 +1,11 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,3000,2006,Infiniti fx35,"Jersey City, NJ",167000,A
+Sold,1530,2003,Infiniti fx35,"St Albans, NY",180000,A
+Sold,3200,2003,Infiniti fx35,"Irvington, NJ",139000,A
+Sold,9000,2004,Infiniti fx35,"Fresh Meadows, NY",26000,B
+Sold,4500,2003,Infiniti fx35,"Hillside, NJ",140000,A
+Sold,11500,2004,Infiniti fx35,"Hightstown, NJ",176000,C
+Sold,8500,2011,Infiniti fx35 Full,"Bronx, NY",143000,B
+Sold,5500,2007,Infiniti fx35,"Paterson, NJ",153000,B
+Sold,8500,2010,Infiniti fx35,"Paterson, NJ",157000,B
+Sold,4500,2007,Infiniti fx35,"Richmond Hill, NY",180000,A

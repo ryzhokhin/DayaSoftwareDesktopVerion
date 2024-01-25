@@ -1,0 +1,22 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,1500,1998,Chevrolet blazer Sport Utility 2D,"Staten Island, NY",154000,A
+Sold,1400,1999,Chevrolet blazer Sport Utility 4D,"Eatontown, NJ",195000,A
+Sold,5000,1999,Chevrolet blazer Sport Utility 4D,"Lyndhurst, NJ",65000,A
+Sold,2500,2004,Chevrolet blazer,"Toms River, NJ",106000,A
+Sold,1000,2002,Chevrolet blazer Sport Utility 4D,"Lakewood, NJ",150000,A
+Sold,1800,1999,Chevrolet blazer Sport Utility 4D,"Ogdensburg, NJ",134000,A
+Sold,4000,1978,Chevrolet blazer,"Glen Cove, NY",109000,A
+Sold,1000,2006,Chevrolet trailblazer LS Sport Utility 4D,"Middle Village, NY",230000,A
+Sold,2500,2002,Chevrolet trailblazer,"South Ozone Park, NY",170000,A
+Sold,20999,2021,Chevrolet blazer 1LT Sport Utility 4D,"Great Neck, NY",43000,E
+Sold,2995,2006,Chevrolet trailblazer LS Sport Utility 4D,"Kenilworth, NJ",150000,A
+Sold,1200,2006,Chevrolet trailblazer LT Extended Sport Utility 4D,"Succasunna, NJ",110000,A
+Pending,2450,2003,Chevrolet trailblazer LT EXT,"Toms River, NJ",177000,A
+Pending,1000,1995,Chevrolet blazer,"Robbinsville, NJ",200000,A
+Sold,2800,1998,Chevrolet blazer Sport Utility 2D,"Manchester, CT",147000,A
+Sold,1500,1998,Chevrolet blazer Sport Utility 4D,"Blue Point, NY",162000,A
+Sold,2500,2001,Chevrolet blazer s10 zr2 ZR2,"Churchville, MD",190000,A
+Sold,1234,1998,Chevrolet blazer,"Franklin, PA",120000,A
+Sold,2600,2002,Chevrolet blazer Sport Utility 2D,"Virginia Beach, VA",161000,A
+Sold,3300,2002,Chevrolet blazer Sport Utility 4D,"Piscataway, NJ",88000,A
+Sold,1300,2002,Chevrolet trailblazer Sport Utility 4D,"West Chester, PA",135000,A

@@ -1,0 +1,12 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,1800,2006,BMW 7 series 750Li Sedan 4D,"East Orange, NJ",140000,A
+Sold,1300,1999,BMW 7 series 750iL Sedan 4D,"Ozone Park, NY",154000,A
+Sold,5300,2000,BMW series 7 740iL+Sedan+4D,"New York, NY",175000,B
+Sold,1100,2005,BMW 7 series 745Li Sedan 4D,"Melville, NY",123000,A
+Sold,2900,2003,BMW 7 series 745Li Sedan 4D,"Mine Hill, NJ",89000,A
+Sold,2900,2003,BMW 7 series 745i Sedan 4D,"Morristown, NJ",89000,A
+Sold,4700,2003,BMW 7 series,"Newark, NJ",89000,A
+Sold,5000,2004,BMW 7 series 745Li Sedan 4D,"North Haledon, NJ",49000,A
+Sold,2500,1999,BMW r71,"Florham Park, NJ",300,A
+Pending,6500,2004,BMW 7 series 745Li Sedan 4D,"Jersey City, NJ",155000,B
+Sold,7000,2011,BMW 7 series 750i Sedan 4D,"Clifton, NJ",110000,B

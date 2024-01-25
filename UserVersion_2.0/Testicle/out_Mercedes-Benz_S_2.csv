@@ -1,0 +1,10 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,5000,2006,Mercedes-Benz s-class S 55 AMG Sedan 4D,"Passaic, NJ",174000,A
+Sold,1000,2005,Mercedes-Benz s-class S 500 4MATIC Sedan 4D,"Staten Island, NY",170000,A
+Sold,3500,2003,Mercedes-Benz s-class S 500 Sedan 4D,"Hackettstown, NJ",180000,A
+Sold,5800,2008,Mercedes-Benz s-class S 550 Sedan 4D,"Jersey City, NJ",130000,B
+Sold,11600,2011,Mercedes-Benz s-class S 550 4MATIC Sedan 4D,"Brooklyn, NY",98000,C
+Sold,4000,2003,Mercedes-Benz s-class S 430 Sedan 4D,"Springfield Gardens, NY",175000,A
+Sold,19500,2014,Mercedes-Benz s-class S 550 Sedan 4D,"Flushing, NY",165000,D
+Sold,2899,2003,Mercedes-Benz s-class S 500 Sedan 4D,"Jackson, NJ",162000,A
+Sold,4300,2004,Mercedes-Benz s-class S 430 4MATIC Sedan 4D,"Newark, NJ",231000,A

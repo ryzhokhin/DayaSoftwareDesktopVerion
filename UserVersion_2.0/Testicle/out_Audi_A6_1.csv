@@ -1,0 +1,15 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,2500,2009,Audi a6 3.2 Sedan 4D,"Roselle, NJ",160000,A
+Sold,4300,2001,Audi a6 2.7T Sedan 4D,"Parsippany, NJ",121000,A
+Sold,9500,2016,Audi a6 2.0T Premium Plus Sedan 4D,"Brooklyn, NY",157000,B
+Sold,2900,1999,Audi a6 Avant Wagon 4D,"Bloomfield, NJ",128000,A
+Pending,6500,2012,Audi a6 3.0t,"Vauxhall, NJ",145000,B
+Sold,11999,2016,Audi a6 2.0T Premium Sedan 4D,"Bergenfield, NJ",120000,C
+Sold,2000,2008,Audi a6 3.2 Avant Quattro Wagon 4D,"Elizabeth, NJ",178000,A
+Sold,4850,2010,Audi a6 3.0T Quattro Sedan 4D,"Plainfield, NJ",152000,A
+Sold,3500,2007,Audi a6 3.2 Quattro Sedan 4D,"Brooklyn, NY",130000,A
+Sold,5000,2009,Audi a6,"Piscataway, NJ",116000,A
+Sold,5000,2008,Audi a6 3.2 Quattro Sedan 4D,"Staten Island, NY",154000,A
+Sold,9950,2010,Audi a6 3.0 quattro prestige,"Commack, NY",84000,B
+Sold,11900,2014,Audi a6 s line 3.0T Premium Plus Sedan 4D,"North Brunswick, NJ",135000,C
+Sold,5000,2008,Audi a6 3.2 Quattro Sedan 4D,"Staten Island, NY",154000,A

@@ -1,0 +1,20 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Pending,21999,1998,Ford mustang Cobra Coupe 2D,"Lindenhurst, NY",7700,E
+Sold,3000,1997,Ford mustang Cobra Coupe 2D,"Atlantic Highlands, NJ",85000,A
+Sold,5500,1998,Ford mustang GT Convertible 2D,"Clifton, NJ",82000,B
+Sold,5500,1998,Ford mustang GT Convertible 2D,"Clifton, NJ",82000,B
+Sold,5000,2002,Ford mustang GT Deluxe Coupe 2D,"New Egypt, NJ",176000,A
+Sold,14000,1993,Ford mustang GT Hatchback 2D,"River Vale, NJ",118000,C
+Sold,8500,2002,Ford mustang GT Deluxe Coupe 2D,"Jersey City, NJ",86000,B
+Sold,3000,1996,Ford mustang GT Coupe 2D,"Passaic, NJ",98000,A
+Sold,9500,2002,Ford mustang GT,"Westbury, NY",96000,B
+Sold,8000,2000,Ford mustang GT Coupe 2D,"Islip Terrace, NY",80000,B
+Sold,7000,2001,Ford mustang GT Premium Convertible 2D,"Deer Park, NY",122000,B
+Sold,8200,1999,Ford mustang GT Coupe 2D,"Bayville, NJ",80000,B
+Sold,1300,2004,Ford mustang Deluxe Convertible 2D,"Massapequa Park, NY",103000,A
+Sold,3995,2002,Ford mustang Deluxe Convertible 2D,"Manalapan, NJ",120000,A
+Sold,9500,2005,Ford mustang GT Deluxe Convertible 2D,"Ronkonkoma, NY",90000,B
+Sold,5995,2004,Ford mustang GT Premium Convertible 2D,"Ronkonkoma, NY",157000,B
+Sold,5500,1994,Ford mustang GT Coupe 2D,"Hackettstown, NJ",112000,B
+Sold,9000,1993,Ford mustang LX Coupe 2D,"Brick, NJ",100000,B
+Sold,3800,2004,Ford mustang GT Premium Convertible 2D,"Freehold, NJ",163000,A

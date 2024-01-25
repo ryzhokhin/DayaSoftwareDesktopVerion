@@ -1,0 +1,12 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Pending,19995,1995,BMW 8 series 840Ci Coupe 2D,"Freeport, NY",76000,D
+Sold,10000,1997,BMW 3 series 318ti Hatchback Coupe 2D,"New York, NY",200000,B
+Sold,1500,1996,BMW 3 series 328is Coupe 2D,"Spring Lake, NJ",125000,A
+Sold,5800,1998,BMW 3 series 328i Convertible 2D,"East Meadow, NY",79000,B
+Sold,2500,2022,BMW 8 series 840i Convertible 2D,"New York, NY",1500,A
+Pending,6000,2000,BMW 3 series 328i Sedan 4D,"Flemington, NJ",137000,B
+Sold,3600,1996,BMW 31 8,"Lanham, MD",172000,A
+Sold,2995,1998,BMW 3 series 328i Sedan 4D,"North Bergen, NJ",190000,A
+Sold,3200,1997,BMW 3 series 318i Sedan 4D,"Rock Hill, NY",110000,A
+Sold,2500,2000,BMW 5 series 528i Sedan 4D,"Wharton, NJ",141000,A
+Sold,7100,2013,BMW 1 series 128i Coupe 2D,"Brooklyn, NY",145000,B

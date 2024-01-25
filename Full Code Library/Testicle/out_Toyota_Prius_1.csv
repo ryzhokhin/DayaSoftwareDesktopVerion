@@ -1,0 +1,39 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,6200,2014,Toyota prius,"Brentwood, NY",43000,B
+Sold,1300,2002,Toyota prius Sedan 4D,"New York, NY",140000,A
+Sold,13000,2016,Toyota prius,"Fort Lee, NJ",134000,C
+Sold,2800,2007,Toyota prius Hatchback 4D,"New York, NY",22000,A
+Sold,4500,2005,Toyota prius Hatchback 4D,"Hauppauge, NY",130000,A
+Sold,3200,2007,Toyota prius Hatchback 4D,"Belleville, NJ",225000,A
+Sold,1400,2002,Toyota prius Sedan 4D,"New Egypt, NJ",154000,A
+Sold,4300,2010,Toyota prius,"Brooklyn, NY",210000,A
+Sold,5250,2009,Toyota prius Hatchback 4D,"Brooklyn, NY",232000,B
+Sold,4850,2009,Toyota prius Hatchback 4D,"Staten Island, NY",190000,A
+Sold,2750,2011,Toyota prius Five Hatchback 4D,"Parsippany, NJ",258000,A
+Sold,9500,2012,Toyota prius v,"Brooklyn, NY",113000,B
+Sold,3200,2007,Toyota prius Hatchback 4D,"Astoria, NY",217000,A
+Sold,3200,2004,Toyota prius Sedan 4D,"New City, NY",200000,A
+Sold,3000,2010,Toyota prius IV Hatchback 4D,"Avenel, NJ",264000,A
+Sold,11800,2010,Toyota prius II Hatchback 4D,"Brooklyn, NY",42000,C
+Sold,3500,2007,Toyota prius Hatchback 4D,"Clifton, NJ",201000,A
+Sold,5600,2004,Toyota prius Sedan 4D,"East Northport, NY",114000,B
+Sold,3745,2004,Toyota prius,"Lambertville, NJ",230000,A
+Sold,4300,2007,Toyota prius,"Brooklyn, NY",165000,A
+Sold,3800,2007,Toyota prius,"Long Branch, NJ",160000,A
+Sold,10500,2015,Toyota prius,"Brooklyn, NY",133000,C
+Sold,3799,2007,Toyota prius,"Newark, NJ",215000,A
+Sold,8999,2010,Toyota prius III Hatchback 4D,"Hackensack, NJ",112000,B
+Sold,4000,2007,Toyota prius Touring Hatchback 4D,"West Babylon, NY",212000,A
+Sold,4800,2007,Toyota prius Hatchback 4D,"Smithtown, NY",78000,A
+Sold,5500,2011,Toyota prius Four Hatchback 4D,"New York, NY",141000,B
+Sold,11999,2016,Toyota prius Two Hatchback 4D,"West Babylon, NY",139000,C
+Sold,7900,2014,Toyota prius plug-in hybrid Advanced Hatchback 4D,"Rosedale, NY",167000,B
+Sold,6850,2012,Toyota prius Five Hatchback 4D,"East Windsor, NJ",179000,B
+Sold,13500,2016,Toyota prius,"Brooklyn, NY",142000,C
+Sold,2999,2005,Toyota prius,"Elizabeth, NJ",249000,A
+Sold,26999,2020,Toyota prius prime,"Westfield, NJ",37000,F
+Pending,5999,2008,Toyota prius,"New York, NY",150000,B
+Sold,3250,2009,Toyota prius Hatchback 4D,"Belleville, NJ",172000,A
+Sold,6500,2008,Toyota prius Hybrid Synergy Drive,"Bronx, NY",122000,B
+Sold,7990,2013,Toyota prius c Three Hatchback 4D,"Elmwood Park, NJ",144000,B
+Sold,5900,2005,Toyota prius Hatchback 4D,"Huntington Station, NY",167000,B

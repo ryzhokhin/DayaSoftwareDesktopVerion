@@ -1,0 +1,37 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,3250,1998,Honda civic HX Coupe 2D,"Howell, NJ",150000,A
+Sold,3500,2001,Honda cr-v,"New York, NY",134000,A
+Sold,3300,1997,Honda civic EX Coupe 2D,"Laurel, MD",255000,A
+Sold,2495,1998,Honda accord LX Sedan 4D,"Elkton, MD",191000,A
+Sold,1500,1990,Honda civic DX Sedan 4D,"Morris Plains, NJ",200000,A
+Pending,1500,1998,Honda civic EX Sedan 4D,"Lancaster, PA",60000,A
+Sold,1700,1997,Honda accord,"Danbury, CT",111000,A
+Sold,3500,1997,Honda civic EX Coupe 2D,"Waterbury, CT",138000,A
+Sold,1150,1998,Honda cr-v EX Sport Utility 4D,"Rutherford, NJ",254000,A
+Sold,2000,2000,Honda accord LX Sedan 4D,"Bronx, NY",172000,A
+Sold,1500,1998,Honda accord EX Coupe 2D,"Sewell, NJ",213000,A
+Sold,1500,1997,Honda civic EX Coupe 2D,"Brentwood, NY",202000,A
+Pending,3900,1998,Honda prelude Coupe 2D,"Fairfield, PA",145000,A
+Pending,2800,1999,Honda cr-v EX Sport Utility 4D,"Corona, NY",158000,A
+Sold,1200,1998,Honda civic ek,"New Britain, CT",123000,A
+Sold,2600,1993,Honda del sol Si Coupe 2D,"Staten Island, NY",202000,A
+Pending,3900,1998,Honda civic EX Sedan 4D,"Perkasie, PA",169000,A
+Sold,2670,1998,Honda civic LX Sedan 4D,"Silver Spring, MD",180000,A
+Sold,3500,1995,Honda civic,"Hempstead, NY",170000,A
+Sold,1700,1998,Honda civic EX Sedan 4D,"Newmarket, NH",200000,A
+Sold,1890,1998,Honda accord DX Sedan 4D,"Paterson, NJ",125000,A
+Sold,2800,2001,Honda accord DX Sedan 4D,"Woodbridge, VA",160000,A
+Sold,1200,1998,Honda accord DX Sedan 4D,"Dundalk, MD",195000,A
+Sold,2500,1998,Honda civic LX Sedan 4D,"Yorktown Heights, NY",198000,A
+Sold,2000,2001,Honda cr-v,"Milford, CT",231000,A
+Sold,3500,2000,Honda civic LX Sedan 4D,"Hollis, NY",1200,A
+Sold,3900,1999,Honda cr-v EX Sport Utility 4D,"Manchester, NH",187000,A
+Sold,2400,1997,Honda civic DX Sedan 4D,"Fords, NJ",175000,A
+Sold,1500,1997,Honda civic EX Coupe 2D,"Farmingdale, NY",97000,A
+Sold,2800,1998,Honda accord EX Sedan 4D,"Richmond, VA",219000,A
+Sold,2000,2000,Honda cr-v LX Sport Utility 4D,"New York, NY",162000,A
+Sold,1000,1996,Honda accord LX Sedan 4D,"Somerset, NJ",149000,A
+Pending,1000,1997,Honda civic,"Camden, NJ",156000,A
+Sold,1300,1998,Honda civic LX Sedan 4D,"Northampton, MA",150000,A
+Pending,2000,1998,Honda civic EX Coupe 2D,"Forest, VA",220000,A
+Sold,1000,1995,Honda civic DX Coupe 2D,"Woodside, NY",123000,A

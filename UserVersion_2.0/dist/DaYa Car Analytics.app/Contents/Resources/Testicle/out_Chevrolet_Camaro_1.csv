@@ -1,0 +1,22 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,5700,1998,Chevrolet camaro Coupe 2D,"Richmond Hill, NY",76000,B
+Sold,4500,1992,Chevrolet camaro T-tops,"Monmouth Junction, NJ",120000,A
+Pending,9800,2015,Chevrolet camaro LT Convertible 2D,"Union City, NJ",156000,B
+Sold,4000,1991,Chevrolet camaro Z28 Coupe 2D,"Toms River, NJ",89000,A
+Sold,3000,1968,Chevrolet camaro,"Staten Island, NY",10000,A
+Sold,13000,2000,Chevrolet camaro Z28 Coupe 2D,"Hillsborough, NJ",57000,C
+Sold,14000,1992,Chevrolet camaro RS Coupe 2D,"Farmingdale, NY",6000,C
+Pending,7900,2010,Chevrolet camaro LT Coupe 2D,"Maplewood, NJ",140000,B
+Sold,13000,1992,Chevrolet camaro RS Coupe 2D,"Farmingdale, NY",5000,C
+Sold,12000,1989,Chevrolet camaro IROC,"Dover, NJ",2900,C
+Sold,35000,1969,Chevrolet camaro Base,"Ridgefield, CT",329000,F
+Sold,12000,2015,Chevrolet camaro LS Coupe 2D,"Newark, NJ",152000,C
+Sold,6000,2010,Chevrolet camaro LS Coupe 2D,"Brooklyn, NY",145000,B
+Sold,26000,2016,Chevrolet camaro SS Coupe 2D,"Baldwin, NY",52000,F
+Sold,7000,2015,Chevrolet camaro LS Coupe 2D,"Wantagh, NY",47000,B
+Sold,24495,2019,Chevrolet camaro,"Irvington, NJ",41000,E
+Sold,30000,2015,Chevrolet camaro ZL1 Coupe 2D,"Middlesex, NJ",43000,F
+Sold,14900,2015,Chevrolet camaro,"Highland Park, NJ",83000,C
+Sold,11250,2014,Chevrolet camaro LT Coupe 2D,"Mahwah, NJ",82000,C
+Sold,23000,2013,Chevrolet camaro LT Coupe 2D,"Jamaica, NY",39000,E
+Sold,18995,2017,Chevrolet camaro LT Coupe 2D,"Hackensack, NJ",70000,D

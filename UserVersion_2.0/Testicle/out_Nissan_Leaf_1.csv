@@ -1,0 +1,5 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,3700,2016,Nissan leaf,"Windsor Mill, MD",170000,A
+Pending,1500,2013,Nissan leaf S Hatchback 4D,"Pittsburgh, PA",86000,A
+Sold,4500,2012,Nissan leaf SV Hatchback 4D,"Stratford, NJ",23000,A
+Sold,4997,2012,Nissan leaf,"Needham, MA",59000,A

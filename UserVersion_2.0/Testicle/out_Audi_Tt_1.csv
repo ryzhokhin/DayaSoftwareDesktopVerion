@@ -1,0 +1,20 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,4000,2003,Audi tt Coupe 2D,"Salisbury Mills, NY",99000,A
+Sold,1500,2001,Audi Quattro Coupe 2D,"Brentwood, NY",84000,A
+Pending,4800,2003,Audi tt Coupe 2D,"Bayonne, NJ",135000,A
+Sold,5500,2008,Audi 3.2 Quattro Coupe 2D,"Bronx, NY",186000,B
+Sold,3500,2004,Audi Quattro Coupe 2D,"East Hanover, NJ",200000,A
+Sold,2000,2002,Audi Quattro Coupe 2D,"Brooklyn, NY",297000,A
+Sold,2000,2006,Audi a4 3.0 Quattro Cabriolet 2D,"Holmdel, NJ",107000,A
+Sold,1500,2007,Audi a4 2.0T Quattro Cabriolet 2D,"Toms River, NJ",119000,A
+Sold,19995,2001,Audi tt,"Wantagh, NY",28000,D
+Sold,5000,2004,Audi a4 3.0 Quattro Cabriolet 2D,"East Orange, NJ",105000,A
+Sold,2000,2006,Audi a3 3.2 S-Line Quattro Wagon 4D,"Hackensack, NJ",165000,A
+Sold,5000,2005,Audi s4 (2005.5) Quattro Sedan 4D,"Bronx, NY",139000,A
+Sold,3800,2003,Audi a4 1.8T Avant Quattro Wagon 4D,"Clark, NJ",201000,A
+Sold,4999,2005,Audi s4 Quattro Cabriolet 2D,"Hackettstown, NJ",95000,A
+Sold,5200,2009,Audi a5 3.2 Quattro Coupe 2D,"Metuchen, NJ",163000,B
+Sold,5000,2004,Audi s4 Quattro Sedan 4D,"Englewood, NJ",145000,A
+Sold,9500,2006,Audi a4 2.0T Avant Quattro Wagon 4D,"Rockville Centre, NY",118000,B
+Sold,4000,2011,Audi a3 2.0T Quattro Wagon 4D,"Yonkers, NY",191000,A
+Sold,6000,2010,Audi a3 2.0T Quattro Wagon 4D,"Hackensack, NJ",130000,B

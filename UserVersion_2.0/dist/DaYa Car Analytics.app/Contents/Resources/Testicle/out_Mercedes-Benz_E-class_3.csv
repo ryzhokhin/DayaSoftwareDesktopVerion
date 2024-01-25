@@ -1,0 +1,20 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,6950,2011,Mercedes-Benz e-class E 350 4MATIC Sedan 4D,"Westfield, NJ",85000,B
+Pending,5600,2000,Mercedes-Benz e-class E 320 Sedan 4D,"Lake Hopatcong, NJ",73000,B
+Sold,1860,1999,Mercedes-Benz e-class E 430 Sedan 4D,"Yonkers, NY",127000,A
+Sold,5600,2006,Mercedes-Benz e-class E 350 4MATIC Wagon 4D,"Rye, NY",149000,B
+Sold,9800,2010,Mercedes-Benz e-class E 350 Sedan 4D,"Ridgewood, NY",109000,B
+Sold,4250,2008,Mercedes-Benz e-class E 350 4MATIC Sedan 4D,"Great Neck, NY",131000,A
+Sold,9995,2001,Mercedes-Benz e-class E 320 Sedan 4D,"Lavallette, NJ",46000,B
+Sold,1650,1999,Mercedes-Benz e-class E 320 Sedan 4D,"Staten Island, NY",196000,A
+Sold,37500,2016,Mercedes-Benz e-class E 63 AMG 4MATIC S-Model Sedan 4D,"Toms River, NJ",73000,F
+Sold,3300,2004,Mercedes-Benz e-class E 500 Sedan 4D,"Long Island City, NY",187000,A
+Sold,16900,2004,Mercedes-Benz e-class,"New York, NY",117000,D
+Sold,3500,2007,Mercedes-Benz e-class,"Woodbridge, NJ",165000,A
+Sold,5000,2003,Mercedes-Benz e-class E 500 Sedan 4D,"Union, NJ",158000,A
+Sold,3300,2001,Mercedes-Benz e-class E 320 Wagon 4D,"Hewlett, NY",134000,A
+Sold,3500,2006,Mercedes-Benz e-class E 500 4MATIC Sedan 4D,"Irvington, NJ",188000,A
+Sold,1000,2002,Mercedes-Benz e-class,"Toms River, NJ",209000,A
+Sold,1000,2001,Mercedes-Benz e-class E 430 Sedan 4D,"Glen Cove, NY",258000,A
+Sold,16500,2014,Mercedes-Benz e-class E 350 4MATIC Sedan 4D,"Astoria, NY",77000,D
+Sold,3500,2003,Mercedes-Benz e-class E 320 Sedan 4D,"Brooklyn, NY",78000,A

@@ -1,0 +1,8 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,7200,1992,Toyota mr2 Coupe 2D,"Bayville, NJ",127000,B
+Sold,4000,1987,Toyota mr2 Coupe 2D,"Lindenhurst, NY",36000,A
+Sold,7500,1993,Toyota mr2 Non turbo,"Robbinsville, NJ",127000,B
+Sold,3000,1991,Toyota mr2 Spyder Convertible 2D,"Rochester, NY",131000,A
+Sold,6500,1991,Toyota mr2 Coupe 2D,"Concord, NH",155000,B
+Pending,7500,1986,Toyota mr2,"Acushnet, MA",173000,B
+Sold,8100,1991,Toyota mr2 Coupe 2D,"Niagara Falls, NY",152000,B

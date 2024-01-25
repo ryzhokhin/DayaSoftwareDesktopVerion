@@ -1,0 +1,47 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,3000,2016,Ford focus SE Sedan 4D,"New York, NY",136000,A
+Sold,2700,2010,Ford focus SES Coupe 2D,"Brooklyn, NY",140000,A
+Sold,4500,2013,Ford focus st Hatchback 4D,"Hackettstown, NJ",106000,A
+Sold,1500,2014,Ford focus SE Sedan 4D,"Piscataway, NJ",214000,A
+Sold,2500,2007,Ford focus Zx4 SE,"Corona, NY",72000,A
+Sold,1250,2012,Ford focus SEL Sedan 4D,"Deer Park, NY",199000,A
+Sold,2600,2006,Ford focus ZX4 SE Sedan 4D,"Lynbrook, NY",72000,A
+Sold,2900,2007,Ford focus SE Wagon 4D,"New York, NY",125000,A
+Sold,2500,2016,Ford focus,"Elizabeth, NJ",117000,A
+Sold,1900,2013,Ford focus SE Sedan 4D,"Flemington, NJ",149000,A
+Sold,4200,2010,Ford focus,"Brentwood, NY",117000,A
+Sold,6400,2014,Ford focus SE Sedan 4D,"Irvington, NJ",92000,B
+Sold,2250,2008,Ford focus,"Bronx, NY",166000,A
+Pending,3400,2014,Ford focus Nitido,"Newark, NJ",126000,A
+Sold,1500,2005,Ford focus ZX4 SES Sedan 4D,"Mahwah, NJ",85000,A
+Sold,1000,2002,Ford focus SE Sedan 4D,"Browns Mills, NJ",160000,A
+Sold,1350,2012,Ford focus SE Hatchback 4D,"Glen Oaks, NY",101000,A
+Sold,1750,2014,Ford focus SE Sedan 4D,"Jersey City, NJ",107000,A
+Sold,3200,2004,Ford focus,"North Plainfield, NJ",167000,A
+Sold,2225,2008,Ford focus SE Sedan 4D,"Brooklyn, NY",112000,A
+Sold,1800,2010,Ford focus SE Sedan 4D,"Stamford, CT",200000,A
+Sold,3200,2014,Ford focus SE Hatchback 4D,"Lodi, NJ",135000,A
+Sold,5500,2015,Ford focus SE Sedan 4D,"Brooklyn, NY",80000,B
+Sold,2800,2004,Ford focus SE Sedan 4D,"Long Branch, NJ",103000,A
+Sold,4000,2012,Ford focus SE Sedan 4D,"Irvington, NJ",138000,A
+Sold,2500,2011,Ford focus SE Sedan 4D,"Fresh Meadows, NY",120000,A
+Sold,3200,2012,Ford focus S Sedan 4D,"Woodhaven, NY",145000,A
+Pending,4300,2018,Ford focus,"Mineola, NY",67000,A
+Sold,4400,2013,Ford focus SE Hatchback 4D,"Irvington, NJ",133000,A
+Sold,3000,2018,Ford focus SE Hatchback 4D,"Bayville, NJ",142000,A
+Sold,5999,2016,Ford focus Titanium,"Rutherford, NJ",131000,B
+Sold,2200,2012,Ford focus SEL Sedan 4D,"Hazlet, NJ",190000,A
+Sold,3700,2012,Ford focus S Sedan 4D,"Orange, NJ",131000,A
+Sold,3000,2009,Ford focus SE Sedan 4D,"Toms River, NJ",80000,A
+Sold,2500,2012,Ford focus,"Uniondale, NY",169000,A
+Sold,2250,2012,Ford focus,"Brooklyn, NY",169000,A
+Sold,4500,2012,Ford focus SE Sedan 4D,"West Hempstead, NY",129000,A
+Sold,8000,2018,Ford focus SE Sedan 4D,"Morristown, NJ",33000,B
+Sold,3100,2010,Ford focus SE Sedan 4D,"New York, NY",151000,A
+Sold,3700,2014,Ford focus,"North Bergen, NJ",177000,A
+Sold,4500,2007,Ford focus SE Sedan 4D,"Somerset, NJ",57000,A
+Sold,6200,2017,Ford focus SE Sedan 4D,"Tenafly, NJ",150000,B
+Sold,3999,2012,Ford focus SEL Sedan 4D,"Hasbrouck Heights, NJ",161000,A
+Sold,3500,2014,Ford focus S Sedan 4D,"Brooklyn, NY",140000,A
+Sold,5699,2014,Ford focus Clean title,"Bronx, NY",104000,B
+Sold,4400,2012,Ford focus SE Sedan 4D,"Brooklyn, NY",119000,A

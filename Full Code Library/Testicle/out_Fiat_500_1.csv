@@ -1,0 +1,21 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,4500,2013,Fiat 500 Pop Hatchback 2D,"Lowell, MA",119000,A
+Sold,15000,2017,Fiat 500 Abarth,"Middle Village, NY",56000,C
+Pending,4000,2012,Fiat 500 Sport Hatchback 2D,"Waltham, MA",10000,A
+Pending,6999,2013,Fiat 500 Turbo Hatchback 2D,"Woodbridge, CT",72000,B
+Sold,3000,2012,Fiat 500 Sport Hatchback 2D,"Staten Island, NY",120000,A
+Sold,3800,2012,Fiat 500,"Wharton, NJ",148000,A
+Sold,2400,2013,Fiat 500 Sport Hatchback 2D,"Reading, PA",200000,A
+Sold,9999,2013,Fiat 500c Abarth Cabrio Convertible 2D,"Belleville, NJ",69000,B
+Sold,4500,2013,Fiat 500,"Philadelphia, PA",63000,A
+Sold,1000,2013,Fiat 500 sport,"Port Matilda, PA",160000,A
+Sold,2200,2012,Fiat 500C Pop Convertible 2D,"Henrico, VA",72000,A
+Sold,3600,2014,Fiat 500 abarth GQ Convertible,"Warrington, PA",93000,A
+Sold,2500,2015,Fiat 500 pop,"Rutland, VT",151000,A
+Sold,5000,2013,Fiat 500c Lounge Cabrio Convertible 2D,"Astoria, NY",150000,A
+Sold,3800,2012,Fiat 500 Sport Hatchback 2D,"Lynn, MA",76000,A
+Pending,3500,2012,Fiat 500 Sport Hatchback 2D,"Fort Plain, NY",162000,A
+Sold,1700,2013,Fiat 500 Pop Hatchback 2D,"Woodbridge, VA",66000,A
+Sold,8500,2014,Fiat 500 Lounge Hatchback 2D,"Colebrook, CT",92000,B
+Sold,6500,2015,Fiat 500l Urbana Trekking Hatchback 4D,"Milford, MA",97000,B
+Sold,5500,2013,Fiat 500 Sport Hatchback 2D,"Berlin, NJ",99000,B

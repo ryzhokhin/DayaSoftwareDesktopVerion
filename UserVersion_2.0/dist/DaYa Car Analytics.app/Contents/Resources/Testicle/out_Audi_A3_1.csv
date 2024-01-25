@@ -1,0 +1,16 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,2000,2006,Audi a3 3.2 S-Line Quattro Wagon 4D,"Hackensack, NJ",165000,A
+Sold,8900,2015,Audi a3 2.0T Premium Sedan 4D,"Brooklyn, NY",140000,B
+Sold,2000,2006,Audi a3 2.0T Wagon 4D,"Bloomfield, NJ",140000,A
+Sold,5999,2010,Audi a3 2.0T Quattro Wagon 4D,"Teaneck, NJ",130000,B
+Sold,4000,2011,Audi a3 2.0T Quattro Wagon 4D,"Yonkers, NY",191000,A
+Sold,6000,2010,Audi a3 2.0T Quattro Wagon 4D,"Hackensack, NJ",130000,B
+Pending,8777,2015,Audi a3,"Lodi, NJ",138000,B
+Sold,1500,2016,Audi a3 2.0T Premium Sedan 4D,"Kearny, NJ",126000,A
+Sold,10900,2016,Audi a3 TDI Premium Plus Sedan 4D,"Passaic, NJ",126000,C
+Sold,5999,2010,Audi a3 2.0T Quattro Wagon 4D,"Bergenfield, NJ",130000,B
+Sold,16500,2015,Audi a3 2.0T Premium Sedan 4D,"Hollis, NY",29000,D
+Sold,6995,2010,Audi a3,"Bronxville, NY",153000,B
+Sold,15950,2016,Audi a3 2.0T Premium Sedan 4D,"Huntington, NY",44000,D
+Sold,2500,2017,Audi a3,"Youngstown, OH",76000,A
+Sold,7000,2006,Audi a3 2.0T Wagon 4D,"Bangor, PA",127000,B

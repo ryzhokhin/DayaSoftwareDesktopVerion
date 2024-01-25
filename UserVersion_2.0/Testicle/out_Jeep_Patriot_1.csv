@@ -1,0 +1,28 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,6500,2012,Jeep patriot Sport SUV 4D,"Irvington, NJ",69000,B
+Sold,3795,2012,Jeep patriot Sport SUV 4D,"Budd Lake, NJ",124000,A
+Pending,5000,2008,Jeep patriot,"Bronx, NY",70000,A
+Sold,1800,2014,Jeep patriot Latitude Sport Utility 4D,"Wall, NJ",115000,A
+Sold,2000,2012,Jeep patriot Sport SUV 4D,"Commack, NY",165000,A
+Sold,1750,2011,Jeep patriot Latitude X Sport Utility 4D,"Passaic, NJ",124000,A
+Sold,2500,2015,Jeep patriot latitude,"Union City, NJ",126000,A
+Sold,4900,2015,Jeep patriot,"Belleville, NJ",186000,A
+Sold,4900,2012,Jeep patriot Latitude Sport Utility 4D,"Bronx, NY",102000,A
+Sold,3000,2015,Jeep patriot latitude,"Belleville, NJ",52000,A
+Sold,3600,2012,Jeep patriot Latitude Sport Utility 4D,"Berkeley Heights, NJ",141000,A
+Sold,5265,2016,Jeep patriot Sport SUV 4D,"Staten Island, NY",126000,B
+Sold,6700,2016,Jeep patriot,"Newark, NJ",113000,B
+Pending,7500,2014,Jeep patriot Sport SUV 4D,"Brooklyn, NY",72000,B
+Sold,3600,2007,Jeep patriot Sport Utility 4D,"Bay Shore, NY",160000,A
+Sold,6700,2016,Jeep patriot Sport SUV 4D,"Morristown, NJ",113000,B
+Sold,4995,2012,Jeep patriot Sport SUV 4D,"Little Ferry, NJ",164000,A
+Sold,10995,2015,Jeep patriot,"Union City, NJ",64000,C
+Sold,7500,2016,Jeep patriot Sport SUV 4D,"Middletown, NY",98000,B
+Sold,6500,2017,Jeep patriot Latitude Sport Utility 4D,"Brooklyn, NY",128000,B
+Sold,6700,2016,Jeep patriot,"Mine Hill, NJ",113000,B
+Sold,5995,2015,Jeep patriot Latitude Sport Utility 4D,"Belleville, NJ",158000,B
+Sold,5400,2011,Jeep patriot Sport Utility 4D,"Newark, NJ",123000,B
+Sold,10500,2017,Jeep patriot,"Central Islip, NY",78000,C
+Sold,6700,2016,Jeep patriot Sport SUV 4D,"Mine Hill, NJ",113000,B
+Sold,3900,2012,Jeep patriot Latitude Sport Utility 4D,"Asbury Park, NJ",200000,A
+Sold,4500,2012,Jeep patriot,"Morristown, NJ",103000,A

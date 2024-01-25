@@ -1,0 +1,32 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,1500,1998,Subaru legacy Outback Wagon 4D,"Waterboro, ME",91000,A
+Sold,4000,2015,Subaru legacy 2.5i Limited Sedan 4D,"New Rochelle, NY",999000,A
+Sold,1000,2001,Subaru legacy,"Middletown, NY",239000,A
+Sold,2800,2000,Subaru legacy GT Limited Sedan 4D,"New City, NY",145000,A
+Sold,1700,2002,Subaru legacy L Sedan 4D,"Westbrook, CT",210000,A
+Sold,1500,1999,Subaru legacy Outback Wagon 4D,"Laconia, NH",245000,A
+Pending,2800,2005,Subaru legacy 2.5 GT Limited Sedan 4D,"Clifton, NJ",117000,A
+Sold,1000,1993,Subaru legacy,"Catonsville, MD",121000,A
+Sold,1900,1996,Subaru legacy,"West Point, VA",233000,A
+Sold,2200,2009,Subaru legacy gt turbo,"Oak Ridge, NJ",155000,A
+Pending,7400,2013,Subaru legacy 2.5i Premium Sedan 4D,"Berlin, CT",123000,B
+Sold,2600,2004,Subaru legacy L Wagon 4D,"Haddonfield, NJ",169000,A
+Sold,2500,2007,Subaru legacy 2.5i Sedan 4D,"Waterbury, CT",183000,A
+Sold,7500,2012,Subaru legacy 2.5i Limited Sedan 4D,"West Haven, CT",148000,B
+Sold,2400,2009,Subaru legacy 2.5i Sedan 4D,"Mt Vernon, NY",190000,A
+Sold,1200,1997,Subaru legacy Outback Limited Wagon 4D,"Laurel, MD",200000,A
+Sold,2000,2004,Subaru legacy GT Wagon 4D,"New London, CT",107000,A
+Pending,5000,1994,Subaru legacy gt jdm 2.0 twin turbo,"Harleysville, PA",40000,A
+Sold,3000,2008,Subaru legacy,"Bronx, NY",142000,A
+Sold,3300,1997,Subaru legacy Outback Wagon 4D,"Baltimore, MD",117000,A
+Sold,12900,2019,Subaru legacy 2.5i Sedan 4D,"East Rutherford, NJ",44000,C
+Pending,2700,2010,Subaru legacy 2.5i Premium Sedan 4D,"Dornsife, PA",176000,A
+Sold,2500,1997,Subaru legacy Outback Wagon 4D,"Danville, PA",110000,A
+Sold,8500,2015,Subaru legacy 2.5i Limited Sedan 4D,"New York, NY",86000,B
+Sold,3700,2005,Subaru legacy 2.5 GT Wagon 4D,"Fords, NJ",130000,A
+Sold,3500,2007,Subaru legacy 2.5i Sedan 4D,"Baldwinsville, NY",134000,A
+Sold,2000,2004,Subaru legacy GT Sedan 4D,"Hartford, CT",124000,A
+Sold,7900,2018,Subaru legacy 2.5i Sedan 4D,"Katonah, NY",105000,B
+Sold,6500,2005,Subaru legacy 2.5i Sedan 4D,"Morgantown, WV",78000,B
+Sold,2800,1997,Subaru legacy Outback Wagon 4D,"Inwood, WV",152000,A
+Sold,5000,2009,Subaru legacy 2.5i Limited Sedan 4D,"Brentwood, NY",140000,A

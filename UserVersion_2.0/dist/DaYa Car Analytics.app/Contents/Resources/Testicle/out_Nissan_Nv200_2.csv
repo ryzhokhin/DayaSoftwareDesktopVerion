@@ -1,0 +1,20 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,3200,2014,Nissan nv200,"Staten Island, NY",205000,A
+Sold,6500,2015,Nissan nv200 S Van 4D,"Clifton, NJ",193000,B
+Pending,4500,2014,Nissan nv200,"Jamaica, NY",250000,A
+Sold,9715,2016,Nissan nv200 S Van 4D,"New York, NY",262000,B
+Pending,21500,2015,Nissan nv200 taxi Van 4D,"Brooklyn, NY",129000,E
+Sold,12700,2015,Nissan nv200 taxi Van 4D,"Brooklyn, NY",268000,C
+Sold,19000,2015,Nissan nv200 taxi,"Brooklyn, NY",181000,D
+Sold,2500,2013,Nissan nv200,"Philadelphia, PA",220000,A
+Sold,18500,2015,Nissan nv200 taxi,"Brooklyn, NY",181000,D
+Sold,6500,2013,Nissan nv200 Sv,"Philadelphia, PA",180000,B
+Sold,16500,2015,Nissan nv200 taxi Van 4D,"Mt Vernon, NY",285000,D
+Sold,8999,2016,Nissan nv200 S Van 4D,"Bridgeport, CT",123000,B
+Sold,6500,2014,Nissan nv200 SV Van 4D,"Conesus, NY",167000,B
+Sold,7900,2014,Nissan nv200 SV Van 4D,"Binghamton, NY",158000,B
+Sold,16000,2016,Nissan nv200 SV Van 4D,"Forest, VA",54000,D
+Sold,13975,2015,Nissan nv200,"Baltimore, MD",53000,C
+Sold,6000,2015,Nissan nv200 S Van 4D,"Pawtucket, RI",156000,B
+Sold,16599,2019,Nissan nv200 S Van 4D,"Egg Harbor City, NJ",64000,D
+Sold,3500,2014,Nissan nv200 taxi Van 4D,"Reading, PA",169000,A

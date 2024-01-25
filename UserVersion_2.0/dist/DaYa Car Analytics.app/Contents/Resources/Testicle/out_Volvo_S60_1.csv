@@ -1,0 +1,12 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,1900,2007,Volvo s60 2.5T Sedan 4D,"Bronx, NY",130000,A
+Sold,1980,2004,Volvo s60r R,"Teaneck, NJ",217000,A
+Sold,2000,2006,Volvo s60 2.5T Sedan 4D,"Brooklyn, NY",198000,A
+Sold,7900,2013,Volvo s60 T6 Premier Plus Sedan 4D,"Elmwood Park, NJ",143000,B
+Sold,1700,2008,Volvo s60,"Mamaroneck, NY",250000,A
+Sold,3900,2012,Volvo s60,"Belleville, NJ",212000,A
+Sold,2000,2004,Volvo s60 2.5T Sedan 4D,"Brentwood, NY",160000,A
+Sold,6900,2012,Volvo s60,"North Brunswick, NJ",123000,B
+Sold,6447,2013,Volvo s60 T5 Premier Sedan 4D,"Paterson, NJ",145000,B
+Sold,6995,2013,Volvo s60 T5 Sedan 4D,"Manalapan, NJ",152000,B
+Sold,9450,2013,Volvo s60,"Newark, NJ",112000,B

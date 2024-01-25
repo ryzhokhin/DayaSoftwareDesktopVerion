@@ -1,0 +1,20 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,2500,2003,Jaguar x-type 2.5L Sedan 4D,"Hackettstown, NJ",111000,A
+Pending,12500,1988,"Jaguar xjs v12 26,979 miles V12 convertible","Springfield, VA",26000,C
+Sold,1250,2004,Jaguar x-type 3.0L Sedan 4D,"Vineland, NJ",203000,A
+Sold,1500,1993,Jaguar xks,"Newton, NJ",300,A
+Sold,2000,1988,Jaguar xjs,"Highlands, NJ",70000,A
+Sold,3900,1997,Jaguar xk8,"Nottingham, NH",95000,A
+Sold,1500,2003,Jaguar x-type 3.0L Sedan 4D,"East Rutherford, NJ",130000,A
+Sold,2000,2001,Jaguar xk8,"Hamden, CT",122000,A
+Sold,1500,1997,Jaguar xj,"Woodbury, NJ",124000,A
+Sold,3000,2000,Jaguar xjr supercharged,"Grove City, PA",94000,A
+Sold,2000,2002,Jaguar x-type 2.5L Sedan 4D,"Medford, MA",83000,A
+Sold,4250,2000,Jaguar xjr,"Pittsburgh, PA",86000,A
+Sold,1200,2002,Jaguar x-type 3.0L Sport Sedan 4D,"Horseheads, NY",105000,A
+Pending,1695,2003,Jaguar x-type 2.5L Sedan 4D,"Tobyhanna, PA",138000,A
+Sold,1200,1990,Jaguar xj6,"Amesbury, MA",108000,A
+Sold,7000,2003,Jaguar x-type,"Holbrook, NY",29000,B
+Sold,6800,2009,Jaguar xf Premium Luxury Sedan 4D,"Philadelphia, PA",115000,B
+Sold,5500,1985,Jaguar xj6 series 3 Vandenplas,"Fairhaven, MA",75000,B
+Sold,1500,2004,Jaguar x-type 3.0L Sedan 4D,"Burlington, NJ",120000,A

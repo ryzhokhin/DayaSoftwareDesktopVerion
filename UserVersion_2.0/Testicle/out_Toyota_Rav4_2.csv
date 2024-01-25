@@ -1,0 +1,14 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,3500,2002,Toyota rav4 Sport Utility 4D,"Valley Stream, NY",167000,A
+Sold,2000,2005,Toyota rav4 Sport Utility 4D,"Brooklyn, NY",150000,A
+Sold,7500,2009,"Toyota rav4 ""Sport"" Sport Utility 4D","Flushing, NY",124000,B
+Sold,3000,1999,Toyota rav4 Sport Utility 4D,"Brentwood, NY",162000,A
+Sold,2300,1996,Toyota rav4 Sport Utility 4D,"Staten Island, NY",165000,A
+Sold,2500,2002,Toyota rav4,"Bronx, NY",119000,A
+Sold,1900,1997,Toyota rav4 Sport Utility 4D,"New Brunswick, NJ",130000,A
+Sold,3500,2002,Toyota rav4,"Somerset, NJ",193000,A
+Sold,7000,2008,"Toyota rav4 ""Sport"" Sport Utility 4D","South Plainfield, NJ",124000,B
+Pending,4700,2005,Toyota rav4 Sport Utility 4D,"Richmond Hill, NY",138000,A
+Sold,3500,2003,Toyota rav4 hybrid LE Plus Sport Utility 4D,"Brooklyn, NY",115000,A
+Sold,14850,2015,Toyota rav4 XLE Sport Utility 4D,"Rego Park, NY",81000,C
+Sold,4500,2004,Toyota rav4 Sport Utility 4D,"Bay Shore, NY",160000,A

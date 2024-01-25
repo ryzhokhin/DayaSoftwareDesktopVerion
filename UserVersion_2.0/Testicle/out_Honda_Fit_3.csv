@@ -1,0 +1,23 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,4500,2010,Honda fit Hatchback 4D,"Brick, NJ",132000,A
+Sold,9250,2015,Honda fit LX Hatchback 4D,"Warwick, NY",102000,B
+Sold,6500,2010,Honda fit Hatchback 4D,"Clark, NJ",86000,B
+Sold,1750,2007,Honda fit Hatchback 4D,"Clifton, NJ",270000,A
+Sold,6500,2013,Honda fit Hatchback 4D,"Piscataway, NJ",66000,B
+Sold,5995,2010,Honda fit sport,"Brooklyn, NY",120000,B
+Sold,2900,2008,Honda fit Sport Hatchback 4D,"Brooklyn, NY",233000,A
+Sold,8500,2015,Honda fit,"Bronx, NY",74000,B
+Sold,8500,2011,Honda fit Hatchback 4D,"Montclair, NJ",83000,B
+Sold,3900,2008,Honda fit Hatchback 4D,"Farmingdale, NY",134000,A
+Sold,1950,2011,Honda fit Sport Hatchback 4D,"Stamford, CT",220000,A
+Sold,2399,2012,Honda fit Hatchback 4D,"Yonkers, NY",193000,A
+Sold,7899,2012,Honda fit Sport Hatchback 4D,"Brooklyn, NY",101000,B
+Sold,12400,2019,Honda fit EX Hatchback 4D,"Woodside, NY",49000,C
+Sold,3850,2011,Honda fit Sport Hatchback 4D,"Staten Island, NY",171000,A
+Sold,9200,2012,Honda fit Sport Hatchback 4D,"Bay Shore, NY",95000,B
+Sold,10999,2018,Honda fit Sport Hatchback 4D,"Lyndhurst, NJ",105000,C
+Sold,2900,2009,Honda fit Sport Hatchback 4D,"Bronx, NY",200000,A
+Sold,8000,2013,Honda fit Sport Hatchback 4D,"Yonkers, NY",35000,B
+Pending,7800,2010,Honda fit Sport Hatchback 4D,"Scarsdale, NY",199000,B
+Sold,3500,2008,Honda fit,"Deer Park, NY",169000,A
+Sold,4499,2010,Honda fit Sport Hatchback 4D,"Bellmore, NY",138000,A

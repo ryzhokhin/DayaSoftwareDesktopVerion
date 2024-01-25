@@ -1,0 +1,43 @@
+Contract,Price,Year,Make&Model,Location,Miles,Category
+Sold,19500,2002,Mercedes-Benz g-class G 500 Sport Utility 4D,"Bronx, NY",266000,D
+Sold,3500,2003,Mercedes-Benz s-class S 500 Sedan 4D,"Hackettstown, NJ",180000,A
+Pending,5600,2000,Mercedes-Benz e-class E 320 Sedan 4D,"Lake Hopatcong, NJ",73000,B
+Sold,9995,2001,Mercedes-Benz e-class E 320 Sedan 4D,"Lavallette, NJ",46000,B
+Sold,5000,1972,Mercedes-Benz 300 se Sedan 4D,"Nutley, NJ",999000,A
+Pending,5300,1995,Mercedes-Benz sl-class SL 500 Roadster 2D,"West Hempstead, NY",101000,B
+Pending,2500,1991,Mercedes-Benz 300 d Sedan 4D,"Woodhaven, NY",118000,A
+Sold,1860,1999,Mercedes-Benz e-class E 430 Sedan 4D,"Yonkers, NY",127000,A
+Sold,4000,1988,Mercedes-Benz 500 sel Sedan 4D,"Palisades Park, NJ",115000,A
+Sold,5500,2003,Mercedes-Benz sl-class SL 500 Roadster 2D,"Brooklyn, NY",147000,B
+Sold,10500,1999,Mercedes-Benz sl-class SL 500 Roadster 2D,"Hillsdale, NJ",49000,C
+Sold,2000,1999,Mercedes-Benz slk-class SLK 230 Roadster 2D,"Oakdale, NY",150000,A
+Sold,3000,1999,Mercedes-Benz 230 slk kompressor,"Holmdel, NJ",130000,A
+Sold,3700,1989,Mercedes-Benz 190 e 2.6 Sedan 4D,"Leonia, NJ",190000,A
+Sold,3500,1992,Mercedes-Benz 300 e 2.6 Sedan 4D,"Sayreville, NJ",109000,A
+Sold,3500,2007,Mercedes-Benz e-class,"Woodbridge, NJ",165000,A
+Sold,4000,1995,Mercedes-Benz e300 diesel,"Elizabeth, NJ",233000,A
+Sold,5000,1993,Mercedes-Benz 300 d,"Greenwich, CT",80000,A
+Sold,16900,2004,Mercedes-Benz e-class,"New York, NY",117000,D
+Sold,4200,2006,Mercedes-Benz slk-class 350,"Wyckoff, NJ",85000,A
+Sold,3700,2005,Mercedes-Benz clk-class CLK 320 Cabriolet 2D,"New Hyde Park, NY",126000,A
+Sold,4000,2000,Mercedes-Benz clk-class CLK 430 Coupe 2D,"Manchester, NJ",130000,A
+Sold,8900,1977,Mercedes-Benz 300 d,"Long Valley, NJ",96000,B
+Sold,4050,1980,Mercedes-Benz 190 e Replicar-Gazelle Classic,"Livingston, NJ",11000,A
+Sold,1500,2001,Mercedes-Benz clk-class CLK 320 Coupe 2D,"Brooklyn, NY",210000,A
+Sold,9000,1997,Mercedes-Benz sl-class SL 500 Roadster 2D,"Closter, NJ",77000,B
+Sold,1350,2000,Mercedes-Benz c-class C 230 Sedan 4D,"Morganville, NJ",192000,A
+Sold,6000,1970,Mercedes-Benz 280,"Garfield, NJ",54000,B
+Sold,1500,2002,Mercedes-Benz m-class ML 500 Sport Utility 4D,"Paramus, NJ",219000,A
+Sold,6999,2001,Mercedes-Benz clk-class,"Garfield, NJ",57000,B
+Sold,1800,2002,Mercedes-Benz clk-class CLK 430 Cabriolet 2D,"Bronx, NY",180000,A
+Sold,2500,1998,Mercedes-Benz m-class ML 320 Sport Utility 4D,"Brooklyn, NY",161000,A
+Sold,2800,2006,Mercedes-Benz cls500 runs and drives good a/c,"Jamaica, NY",125000,A
+Sold,3300,2004,Mercedes-Benz e-class E 500 Sedan 4D,"Long Island City, NY",187000,A
+Sold,11000,2013,Mercedes-Benz m-class,"East Orange, NJ",136000,C
+Sold,2500,2001,Mercedes-Benz clk-class CLK 320 Coupe 2D,"Bronx, NY",210000,A
+Sold,3500,2009,Mercedes-Benz r-class R 350 Sport Wagon 4D,"East Elmhurst, NY",98000,A
+Sold,2800,2000,Mercedes-Benz c-class C 230 Sedan 4D,"Keyport, NJ",182000,A
+Sold,9800,2012,Mercedes-Benz E-class wagon,"Belleville, NJ",203000,B
+Sold,1100,2006,Mercedes-Benz e-class E 350 Sedan 4D,"Brooklyn, NY",200000,A
+Sold,4800,2001,Mercedes-Benz c-class C 240 Sedan 4D,"Dumont, NJ",72000,A
+Sold,7000,2004,Mercedes-Benz clk-class CLK 500 Coupe 2D,"New City, NY",129000,B
